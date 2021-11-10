@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "rank": 1,
+        "mobName": "Little Ladybug",
+        "mobIcon": "https://xivapi.com/i/063000/063036_hr1.png",
+        "x": 22,
+        "y": 24
+    },
+    {
+        "id": 2,
+        "rank" : 1,
+        "mobName": "Wharf Rat",
+        "mobIcon": "https://xivapi.com/i/063000/063028_hr1.png",
+        "x": 21,
+        "y": 23
+    },
+    {
+        "id": 3,
+        "rank" : 1,
+        "mobName": "Lost Lamb",
+        "mobIcon": "https://xivapi.com/i/063000/063074_hr1.png",
+        "x": 23,
+        "y": 24
+    },
+    {
+        "id": 5,
+        "rank" : 1,
+        "mobName": "Puk Hatchling",
+        "mobIcon": "https://xivapi.com/i/063000/063081_hr1.png",
+        "x": 20,
+        "y": 19
+    },
+    {
+        "id": 7,
+        "rank" : 1,
+        "mobName": "Bogy",
+        "mobIcon": "https://xivapi.com/i/063000/063084_hr1.png",
+        "x": 20,
+        "y": 19
+    },
+    {
+        "id": 9,
+        "rank" : 1,
+        "mobName": "Grounded Pirate",
+        "mobIcon": "https://xivapi.com/i/063000/063045_hr1.png",
+        "x": 20,
+        "y": 16
+    },
+    {
+        "id": 12,
+        "rank" : 2,
+        "mobName": "Mossless Goobhue",
+        "mobIcon": "https://xivapi.com/i/063000/063062_hr1.png",
+        "x": 21,
+        "y": 23
+    }
+]
