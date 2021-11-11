@@ -1,12 +1,15 @@
 import React from "react";
+import Wrapper from "./Wrapper";
 import "../styles/navBar.css";
 
 const NavBar = () => {
   return (
-    <div className="navBar-container">
-      <p>FFXIV Hunting Log</p>
-      Login / Logout / Register
-    </div>
+    <Wrapper>
+      <div className="navBar">
+        <p>FFXIV Hunting Log</p>
+        Login / Logout / Register
+      </div>
+    </Wrapper>
   );
 };
 

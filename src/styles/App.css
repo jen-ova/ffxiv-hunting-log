@@ -22,12 +22,3 @@
   grid-column: 6 / 7;
   grid-row: 2 / 9;
 }
-
-.leaflet-container {
-  /* width: 100vw; */
-  height: 100vh;
-}
-
-.huntIcon {
-  filter: drop-shadow(5px 5px 5px black);
-}
