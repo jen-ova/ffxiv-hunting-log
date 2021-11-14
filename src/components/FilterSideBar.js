@@ -1,8 +1,18 @@
 import React from "react";
 import Wrapper from "./Wrapper";
 import "../styles/filterSideBar.css";
+import mapImages from "../helpers/mapImages";
 
 const FilterSideBar = () => {
+  // const [currentZone, setCurrentZone] = useState({
+  //   currentZone: "Middle La Noscea",
+  // });
+
+  // const handleCurrentZone = (event) => {
+  //   event.preventDefault();
+  //   setRegion({ region: event });
+  // };
+
   return (
     <Wrapper>
       <div className="filterSideBar-container">
@@ -13,25 +23,9 @@ const FilterSideBar = () => {
         <div className="filterSideBar__region">
           <label htmlFor="region">Select a region</label>
           <select name="region" id="region">
-            <option value="middle-la-noscea">Middle La Noscea</option>
-            <option value="lower-la-noscea">Lower La Noscea</option>
-            <option value="eastern-la-noscea">Eastern la Noscea</option>
-            <option value="western-la-noscea">Western La Noscea</option>
-            <option value="upper-la-noscea">Upper La Noscea</option>
-            <option value="outer-la-noscea">Outer La Noscea</option>
-            <option value="central-shroud">Central Shroud</option>
-            <option value="east-shroud">East Shroud</option>
-            <option value="south-shroud">South Shroud</option>
-            <option value="north-shroud">North Shroud</option>
-            <option value="Western Thanalan">Western Thanalan</option>
-            <option value="Central Thanalan">Central Thanalan</option>
-            <option value="Eastern Thanalan">Eastern Thanalan</option>
-            <option value="Southern Thanalan">Southern Thanalan</option>
-            <option value="Northern Thanalan">Northern Thanalan</option>
-            <option value="coerthas-central-highlands">
-              Coerthas Central Highlands
-            </option>
-            <option value="mor-dhona">Mor Dhona</option>
+            {mapImages.map((mapImage) => (
+              <option value={mapImage.slug}>{mapImage.title}</option>
+            ))}
           </select>
         </div>
         <div className="filterSideBar__rank">
