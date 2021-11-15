@@ -1,17 +1,11 @@
-import React from "react";
+import React, { useContext } from "react";
 import Wrapper from "./Wrapper";
+import { MapContext } from "./store/MapProvider";
 import "../styles/filterSideBar.css";
 import mapImages from "../helpers/mapImages";
 
 const FilterSideBar = () => {
-  // const [currentZone, setCurrentZone] = useState({
-  //   currentZone: "Middle La Noscea",
-  // });
-
-  // const handleCurrentZone = (event) => {
-  //   event.preventDefault();
-  //   setRegion({ region: event });
-  // };
+  const { handleImageUrl } = useContext(MapContext);
 
   return (
     <Wrapper>
@@ -22,7 +16,7 @@ const FilterSideBar = () => {
         </div>
         <div className="filterSideBar__region">
           <label htmlFor="region">Select a region</label>
-          <select name="region" id="region">
+          <select id="imageUrl" onChange={handleImageUrl}>
             {mapImages.map((mapImage) => (
               <option value={mapImage.slug} key={`option-${mapImage.slug}`}>
                 {mapImage.title}

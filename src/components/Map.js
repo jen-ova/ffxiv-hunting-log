@@ -1,54 +1,18 @@
-import React, { useState } from "react";
+import React, { useContext } from "react";
 import Wrapper from "./Wrapper";
+import { MapContext } from "./store/MapProvider";
 import { MapContainer, ImageOverlay, Marker, Popup } from "react-leaflet";
 import { CRS } from "leaflet";
 import arcanistmiddlelanoscea from "../data/arcanist-middlelanoscea.json";
 import huntIcon from "../helpers/huntIcon.js";
 import "../styles/map.css";
-import mapImages from "../helpers/mapImages";
 
 const Map = () => {
-  const [mapOverlayImage, setMapOverlayImage] = useState(
-    "assets/maps/middle-la-noscea.jpg"
-  );
-
-  const handleImageUrl = (e) => {
-    e.preventDefault();
-
-    const dropdownOverlay = mapImages.filter(
-      (mapImage) => mapImage.slug === e.target.value
-    );
-
-    setMapOverlayImage(dropdownOverlay[0].src);
-  };
-
-  const handleButtonClick = (imgName) => {
-    setMapOverlayImage(`assets/maps/${imgName}.jpg`);
-  };
+  const { mapOverlayImage } = useContext(MapContext);
 
   const toLatLong = ([x, y]) => [42 - y, x];
   return (
     <Wrapper>
-      <button type="button" onClick={() => handleButtonClick("east-shroud")}>
-        East Shroud
-      </button>
-      <button
-        type="button"
-        onClick={() => handleButtonClick("western-thanalan")}>
-        Western Thanalan
-      </button>
-      <select id="imageUrl" onChange={handleImageUrl}>
-        <option data-region="lower-la-noscea" value="lower-la-noscea">
-          Lower La Noscea
-        </option>
-        <option data-region="eastern-la-noscea" value="eastern-la-noscea">
-          Eastern la Noscea
-        </option>
-        <option data-region="western-la-noscea" value="western-la-noscea">
-          Western La Noscea
-        </option>
-      </select>
-
       <div className="map">
         <MapContainer
           bounds={[
@@ -69,7 +33,7 @@ const Map = () => {
               [1, 1],
               [42, 42],
             ]}
-            url={mapOverlayImage}
+            url={mapOverlayImage && mapOverlayImage}
           />
 
           {arcanistmiddlelanoscea.map((arc) => (
