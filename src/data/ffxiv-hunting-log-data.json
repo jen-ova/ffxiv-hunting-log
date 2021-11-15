@@ -1,0 +1,5186 @@
+[
+ {
+   "class": "ACN",
+   "title": "Arcanist 01",
+   "mobName": "Little Ladybug",
+   "map": "Middle La Noscea",
+   "x": 22,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 02",
+   "mobName": "Wharf Rat",
+   "map": "Middle La Noscea",
+   "x": 21,
+   "y": 23,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 03",
+   "mobName": "Lost Lamb",
+   "map": "Middle La Noscea",
+   "x": 23,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 04",
+   "mobName": "Wind Sprite",
+   "map": "Lower La Noscea",
+   "x": 28,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 05",
+   "mobName": "Puk Hatchling",
+   "map": "Middle La Noscea",
+   "x": 20,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 06",
+   "mobName": "Nestling Buzzard",
+   "map": "Lower La Noscea",
+   "x": 31,
+   "y": 16,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 07",
+   "mobName": "Bogy",
+   "map": "Middle La Noscea",
+   "x": 20,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 08",
+   "mobName": "Cave Bat",
+   "map": "Lower La Noscea",
+   "x": 25,
+   "y": 15,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 08",
+   "mobName": "Galago",
+   "map": "Lower La Noscea",
+   "x": 29,
+   "y": 14,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 09",
+   "mobName": "Grounded Pirate",
+   "map": "Middle La Noscea",
+   "x": 20,
+   "y": 16,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 10",
+   "mobName": "Lightning Sprite",
+   "map": "Lower La Noscea",
+   "x": 20,
+   "y": 32,
+   "rank": 1
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 11",
+   "mobName": "Sewer Mole",
+   "map": "Western La Noscea",
+   "x": 33,
+   "y": 28,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 12",
+   "mobName": "Mossless Goobbue",
+   "map": "Middle La Noscea",
+   "x": 21,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 13",
+   "mobName": "Fat Dodo",
+   "map": "Western La Noscea",
+   "x": 32,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 14",
+   "mobName": "Arbor Buzzard",
+   "map": "Western La Noscea",
+   "x": 30,
+   "y": 29,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 15",
+   "mobName": "Qiqirn Eggdigger",
+   "map": "Lower La Noscea",
+   "x": 18,
+   "y": 35,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 16",
+   "mobName": "Dusk Bat",
+   "map": "Western La Noscea",
+   "x": 28,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 17",
+   "mobName": "Puk Hatchling",
+   "map": "Western La Noscea",
+   "x": 28,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 18",
+   "mobName": "Hedgemole",
+   "map": "Western La Noscea",
+   "x": 26,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 18",
+   "mobName": "Rothlyt Pelican",
+   "map": "Western La Noscea",
+   "x": 24,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 19",
+   "mobName": "Killer Mantis",
+   "map": "Western La Noscea",
+   "x": 22,
+   "y": 20,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 20",
+   "mobName": "Bumble Beetle",
+   "map": "Upper La Noscea",
+   "x": 12,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 21",
+   "mobName": "Overgrown Ivy",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 29,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 22",
+   "mobName": "Lead Coblyn",
+   "map": "Western Thanalan",
+   "x": 13,
+   "y": 10,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 23",
+   "mobName": "Kedtrap",
+   "map": "South Shroud",
+   "x": 21,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 24",
+   "mobName": "Coeurl Pup",
+   "map": "Upper La Noscea",
+   "x": 9,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 25",
+   "mobName": "Antelope Stag",
+   "map": "South Shroud",
+   "x": 22,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 26",
+   "mobName": "Balloon",
+   "map": "North Shroud",
+   "x": 17,
+   "y": 26,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 26",
+   "mobName": "Chasm Buzzard",
+   "map": "Eastern Thanalan",
+   "x": 22,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 27",
+   "mobName": "Axe Beak",
+   "map": "Eastern Thanalan",
+   "x": 25,
+   "y": 18,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 28",
+   "mobName": "Clay Golem",
+   "map": "North Shroud",
+   "x": 19,
+   "y": 28,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 28",
+   "mobName": "Sandstone Golem",
+   "map": "Southern Thanalan",
+   "x": 22,
+   "y": 11,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 29",
+   "mobName": "Brood Ziz",
+   "map": "Central Shroud",
+   "x": 15,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 30",
+   "mobName": "Lindwurm",
+   "map": "Central Shroud",
+   "x": 13,
+   "y": 19,
+   "rank": 3
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 31",
+   "mobName": "Qiqirn Gullroaster",
+   "map": "Eastern La Noscea",
+   "x": 26,
+   "y": 32,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 32",
+   "mobName": "Grass Raptor",
+   "map": "Eastern La Noscea",
+   "x": 16,
+   "y": 25,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 33",
+   "mobName": "Gigantoad",
+   "map": "Eastern La Noscea",
+   "x": 18,
+   "y": 26,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 34",
+   "mobName": "Sundrake",
+   "map": "Southern Thanalan",
+   "x": 25,
+   "y": 38,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 35",
+   "mobName": "Colibri",
+   "map": "Eastern La Noscea",
+   "x": 30,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 36",
+   "mobName": "Coeurl",
+   "map": "Outer La Noscea",
+   "x": 14,
+   "y": 14,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 36",
+   "mobName": "Mildewed Goobbue",
+   "map": "Eastern La Noscea",
+   "x": 17,
+   "y": 32,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 37",
+   "mobName": "Snow Wolf Pup",
+   "map": "Coerthas Central Highlands",
+   "x": 21,
+   "y": 29,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 38",
+   "mobName": "Feral Croc",
+   "map": "Coerthas Central Highlands",
+   "x": 27,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 38",
+   "mobName": "Dryad",
+   "map": "North Shroud",
+   "x": 23,
+   "y": 25,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 39",
+   "mobName": "Taurus",
+   "map": "Coerthas Central Highlands",
+   "x": 32,
+   "y": 12,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 40",
+   "mobName": "Molted Ziz",
+   "map": "East Shroud",
+   "x": 25,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 41",
+   "mobName": "Quartz Doblyn",
+   "map": "Eastern Thanalan",
+   "x": 30,
+   "y": 25,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 42",
+   "mobName": "Lammergeyer",
+   "map": "Western La Noscea",
+   "x": 12,
+   "y": 36,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 43",
+   "mobName": "3rd Cohort Laquearius",
+   "map": "East Shroud",
+   "x": 29,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 44",
+   "mobName": "Nix",
+   "map": "Mor Dhona",
+   "x": 19,
+   "y": 9,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 44",
+   "mobName": "Mudpuppy",
+   "map": "Mor Dhona",
+   "x": 14,
+   "y": 10,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 45",
+   "mobName": "Wild Hog",
+   "map": "South Shroud",
+   "x": 29,
+   "y": 24,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 46",
+   "mobName": "Watchwolf",
+   "map": "North Shroud",
+   "x": 20,
+   "y": 18,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 46",
+   "mobName": "5th Cohort Laquearius",
+   "map": "Mor Dhona",
+   "x": 11,
+   "y": 11,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 47",
+   "mobName": "Snow Wolf",
+   "map": "Coerthas Central Highlands",
+   "x": 16,
+   "y": 32,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 48",
+   "mobName": "Natalan Watchwolf",
+   "map": "Coerthas Central Highlands",
+   "x": 31,
+   "y": 18,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 48",
+   "mobName": "Axolotl",
+   "map": "Western La Noscea",
+   "x": 12,
+   "y": 15,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 49",
+   "mobName": "Zahar'ak Battle Drake",
+   "map": "Southern Thanalan",
+   "x": 31,
+   "y": 19,
+   "rank": 5
+ },
+ {
+   "class": "ACN",
+   "title": "Arcanist 50",
+   "mobName": "4th Cohort Vanguard",
+   "map": "Western Thanalan",
+   "x": 12,
+   "y": 7,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 01",
+   "mobName": "Little Ladybug",
+   "map": "North Shroud",
+   "x": 25,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 02",
+   "mobName": "Ground Squirrel",
+   "map": "Central Shroud",
+   "x": 22,
+   "y": 17,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 03",
+   "mobName": "Forest Funguar",
+   "map": "Central Shroud",
+   "x": 24,
+   "y": 18,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 04",
+   "mobName": "Miteling",
+   "map": "North Shroud",
+   "x": 25,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 05",
+   "mobName": "Midge Swarm",
+   "map": "North Shroud",
+   "x": 27,
+   "y": 21,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 06",
+   "mobName": "Water Sprite",
+   "map": "Central Shroud",
+   "x": 25,
+   "y": 21,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 07",
+   "mobName": "Black Eft",
+   "map": "Central Shroud",
+   "x": 26,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 08",
+   "mobName": "Anole",
+   "map": "Central Shroud",
+   "x": 30,
+   "y": 20,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 09",
+   "mobName": "Trickster Imp",
+   "map": "Central Shroud",
+   "x": 26,
+   "y": 25,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 10",
+   "mobName": "Roselet",
+   "map": "Central Shroud",
+   "x": 22,
+   "y": 26,
+   "rank": 1
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 11",
+   "mobName": "Hornet Swarm",
+   "map": "Central Shroud",
+   "x": 23,
+   "y": 25,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 12",
+   "mobName": "Arbor Buzzard",
+   "map": "Central Shroud",
+   "x": 26,
+   "y": 29,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 13",
+   "mobName": "Magicked Bones",
+   "map": "Central Shroud",
+   "x": 19,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 13",
+   "mobName": "Treant Sapling",
+   "map": "Central Shroud",
+   "x": 27,
+   "y": 15,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 13",
+   "mobName": "Goblin Hunter",
+   "map": "East Shroud",
+   "x": 13,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 13",
+   "mobName": "Mandragora",
+   "map": "East Shroud",
+   "x": 14,
+   "y": 25,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 14",
+   "mobName": "Wild Hoglet",
+   "map": "East Shroud",
+   "x": 13,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 15",
+   "mobName": "Lemur",
+   "map": "East Shroud",
+   "x": 20,
+   "y": 29,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 16",
+   "mobName": "Faerie Funguar",
+   "map": "East Shroud",
+   "x": 18,
+   "y": 28,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 17",
+   "mobName": "Giant Gnat",
+   "map": "East Shroud",
+   "x": 19,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 18",
+   "mobName": "Raptor Poacher",
+   "map": "East Shroud",
+   "x": 19,
+   "y": 30,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 19",
+   "mobName": "Antelope Doe",
+   "map": "South Shroud",
+   "x": 15,
+   "y": 18,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 20",
+   "mobName": "Wild Boar",
+   "map": "East Shroud",
+   "x": 16,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 21",
+   "mobName": "Stoneshell",
+   "map": "Upper La Noscea",
+   "x": 13,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 22",
+   "mobName": "Diseased Treant",
+   "map": "East Shroud",
+   "x": 16,
+   "y": 23,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 23",
+   "mobName": "Overgrown Offering",
+   "map": "South Shroud",
+   "x": 18,
+   "y": 19,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 23",
+   "mobName": "Yarzon Scavenger",
+   "map": "North Shroud",
+   "x": 21,
+   "y": 31,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 23",
+   "mobName": "Forest Yarzon",
+   "map": "Upper La Noscea",
+   "x": 12,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 23",
+   "mobName": "Jumping Djigga",
+   "map": "East Shroud",
+   "x": 16,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 24",
+   "mobName": "Redbelly Sharpeye",
+   "map": "South Shroud",
+   "x": 23,
+   "y": 19,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 25",
+   "mobName": "Banemite",
+   "map": "North Shroud",
+   "x": 18,
+   "y": 26,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 26",
+   "mobName": "Chasm Buzzard",
+   "map": "Eastern Thanalan",
+   "x": 22,
+   "y": 19,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 27",
+   "mobName": "Sandskin Peiste",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 10,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 28",
+   "mobName": "Ziz",
+   "map": "North Shroud",
+   "x": 15,
+   "y": 27,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 29",
+   "mobName": "Toadstool",
+   "map": "Central Shroud",
+   "x": 15,
+   "y": 17,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 30",
+   "mobName": "Apkallu",
+   "map": "Eastern La Noscea",
+   "x": 28,
+   "y": 35,
+   "rank": 3
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 31",
+   "mobName": "Floating Eye",
+   "map": "Central Shroud",
+   "x": 11,
+   "y": 22,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 32",
+   "mobName": "Sandworm",
+   "map": "Southern Thanalan",
+   "x": 23,
+   "y": 32,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 33",
+   "mobName": "Russet Yarzon",
+   "map": "Southern Thanalan",
+   "x": 13,
+   "y": 32,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 33",
+   "mobName": "Giant Pelican",
+   "map": "Eastern La Noscea",
+   "x": 20,
+   "y": 32,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 33",
+   "mobName": "Smoke Bomb",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 35,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 33",
+   "mobName": "Spriggan",
+   "map": "Central Shroud",
+   "x": 12,
+   "y": 16,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 34",
+   "mobName": "Bloodshore Bell",
+   "map": "Eastern La Noscea",
+   "x": 31,
+   "y": 26,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 35",
+   "mobName": "Jungle Coeurl",
+   "map": "Eastern La Noscea",
+   "x": 18,
+   "y": 28,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 36",
+   "mobName": "Ringtail",
+   "map": "Outer La Noscea",
+   "x": 15,
+   "y": 12,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 36",
+   "mobName": "Highland Condor",
+   "map": "Outer La Noscea",
+   "x": 16,
+   "y": 16,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 36",
+   "mobName": "Salamander",
+   "map": "Upper La Noscea",
+   "x": 27,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 36",
+   "mobName": "Fallen Pikeman",
+   "map": "Southern Thanalan",
+   "x": 21,
+   "y": 38,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 37",
+   "mobName": "Ice Sprite",
+   "map": "Coerthas Central Highlands",
+   "x": 20,
+   "y": 31,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 38",
+   "mobName": "Feral Croc",
+   "map": "Coerthas Central Highlands",
+   "x": 26,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 39",
+   "mobName": "Vodoriga",
+   "map": "Coerthas Central Highlands",
+   "x": 27,
+   "y": 14,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 40",
+   "mobName": "Baritine Croc",
+   "map": "Coerthas Central Highlands",
+   "x": 3,
+   "y": 21,
+   "rank": 4
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 41",
+   "mobName": "Hippocerf",
+   "map": "Coerthas Central Highlands",
+   "x": 9,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 42",
+   "mobName": "Dragonfly",
+   "map": "Coerthas Central Highlands",
+   "x": 9,
+   "y": 14,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 43",
+   "mobName": "Oldgrowth Treant",
+   "map": "East Shroud",
+   "x": 25,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 43",
+   "mobName": "Lammergeyer",
+   "map": "Western La Noscea",
+   "x": 12,
+   "y": 36,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 43",
+   "mobName": "Dead Man's Moan",
+   "map": "Western La Noscea",
+   "x": 16,
+   "y": 31,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 43",
+   "mobName": "Morbol",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 44",
+   "mobName": "Mudpuppy",
+   "map": "Coerthas Central Highlands",
+   "x": 16,
+   "y": 30,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 45",
+   "mobName": "Lesser Kalong",
+   "map": "South Shroud",
+   "x": 29,
+   "y": 23,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 46",
+   "mobName": "Giant Reader",
+   "map": "Coerthas Central Highlands",
+   "x": 13,
+   "y": 28,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 46",
+   "mobName": "Hippogryph",
+   "map": "Mor Dhona",
+   "x": 32,
+   "y": 8,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 46",
+   "mobName": "5th Cohort Secutor",
+   "map": "Mor Dhona",
+   "x": 11,
+   "y": 13,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 46",
+   "mobName": "Tempered Gladiator",
+   "map": "Southern Thanalan",
+   "x": 21,
+   "y": 19,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 47",
+   "mobName": "Sylphlands Condor",
+   "map": "East Shroud",
+   "x": 26,
+   "y": 16,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 48",
+   "mobName": "Milkroot Sapling",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 13,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 49",
+   "mobName": "Ahriman",
+   "map": "Northern Thanalan ",
+   "x": 24,
+   "y": 22,
+   "rank": 5
+ },
+ {
+   "class": "ARC",
+   "title": "Archer 50",
+   "mobName": "Shelfeye Reaver",
+   "map": "Western La Noscea",
+   "x": 13,
+   "y": 16,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 01",
+   "mobName": "Little Ladybug",
+   "map": "Central Shroud",
+   "x": 23,
+   "y": 17,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 02",
+   "mobName": "Ground Squirrel",
+   "map": "Central Shroud",
+   "x": 21,
+   "y": 16,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 03",
+   "mobName": "Forest Funguar ",
+   "map": "Central Shroud",
+   "x": 25,
+   "y": 18,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 04",
+   "mobName": "Miteling",
+   "map": "North Shroud",
+   "x": 24,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 05",
+   "mobName": "Chigoe",
+   "map": "Central Shroud",
+   "x": 24,
+   "y": 21,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 06",
+   "mobName": "Water Sprite",
+   "map": "Central Shroud",
+   "x": 24,
+   "y": 21,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 07",
+   "mobName": "Midge Swarm",
+   "map": "North Shroud",
+   "x": 26,
+   "y": 21,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 08",
+   "mobName": "Microchu",
+   "map": "North Shroud",
+   "x": 26,
+   "y": 22,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 09",
+   "mobName": "Syrphid Swarm",
+   "map": "Central Shroud",
+   "x": 27,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 10",
+   "mobName": "Northern Vulture",
+   "map": "East Shroud",
+   "x": 14,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 11",
+   "mobName": "Tree Slug",
+   "map": "Central Shroud",
+   "x": 25,
+   "y": 29,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 12",
+   "mobName": "Arbor Buzzard",
+   "map": "Central Shroud",
+   "x": 26,
+   "y": 29,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 12",
+   "mobName": "Goblin Hunter",
+   "map": "East Shroud",
+   "x": 13,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 13",
+   "mobName": "Firefly",
+   "map": "Eastern Thanalan",
+   "x": 24,
+   "y": 29,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 14",
+   "mobName": "Mandragora",
+   "map": "East Shroud",
+   "x": 14,
+   "y": 26,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 15",
+   "mobName": "Boring Weevil",
+   "map": "East Shroud",
+   "x": 20,
+   "y": 28,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 16",
+   "mobName": "Faerie Funguar",
+   "map": "East Shroud",
+   "x": 19,
+   "y": 28,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 17",
+   "mobName": "Giant Gnat",
+   "map": "East Shroud",
+   "x": 19,
+   "y": 25,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 18",
+   "mobName": "Wolf Poacher",
+   "map": "East Shroud",
+   "x": 19,
+   "y": 30,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 19",
+   "mobName": "Qiqirn Beater",
+   "map": "South Shroud",
+   "x": 15,
+   "y": 17,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 20",
+   "mobName": "Black Bat",
+   "map": "East Shroud",
+   "x": 16,
+   "y": 21,
+   "rank": 2
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 21",
+   "mobName": "Stoneshell",
+   "map": "Upper La Noscea",
+   "x": 13,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 22",
+   "mobName": "Laughing Toad",
+   "map": "Western Thanalan",
+   "x": 14,
+   "y": 7,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 22",
+   "mobName": "Diseased Treant",
+   "map": "East Shroud",
+   "x": 16,
+   "y": 23,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 22",
+   "mobName": "Lead Coblyn",
+   "map": "Western Thanalan",
+   "x": 13,
+   "y": 10,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 23",
+   "mobName": "Bark Eft",
+   "map": "South Shroud",
+   "x": 17,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 24",
+   "mobName": "Glowfly",
+   "map": "East Shroud",
+   "x": 15,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 25",
+   "mobName": "Antelope Stag",
+   "map": "South Shroud",
+   "x": 22,
+   "y": 19,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 26",
+   "mobName": "Sabotender",
+   "map": "Southern Thanalan",
+   "x": 15,
+   "y": 14,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 27",
+   "mobName": "Qiqirn Roerunner",
+   "map": "Eastern Thanalan",
+   "x": 23,
+   "y": 23,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 28",
+   "mobName": "Goblin Thug",
+   "map": "South Shroud",
+   "x": 28,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 29",
+   "mobName": "Toadstool",
+   "map": "Central Shroud",
+   "x": 14,
+   "y": 17,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 30",
+   "mobName": "Apkallu",
+   "map": "Eastern La Noscea",
+   "x": 28,
+   "y": 35,
+   "rank": 3
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 31",
+   "mobName": "Lindwurm",
+   "map": "Central Shroud",
+   "x": 13,
+   "y": 17,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 32",
+   "mobName": "Gigantoad",
+   "map": "Eastern La Noscea",
+   "x": 18,
+   "y": 26,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 32",
+   "mobName": "Bigmouth Orobon",
+   "map": "South Shroud",
+   "x": 18,
+   "y": 30,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 32",
+   "mobName": "Mamool Ja Infiltrator",
+   "map": "Upper La Noscea",
+   "x": 28,
+   "y": 23,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 32",
+   "mobName": "Sandworm",
+   "map": "Southern Thanalan",
+   "x": 22,
+   "y": 34,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 33",
+   "mobName": "Revenant",
+   "map": "Central Shroud",
+   "x": 12,
+   "y": 20,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 34",
+   "mobName": "Bloodshore Bell",
+   "map": "Eastern La Noscea",
+   "x": 31,
+   "y": 26,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 35",
+   "mobName": "Ornery Karakul",
+   "map": "Coerthas Central Highlands",
+   "x": 25,
+   "y": 19,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 36",
+   "mobName": "Deepvoid Deathmouse",
+   "map": "South Shroud",
+   "x": 25,
+   "y": 21,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 37",
+   "mobName": "Dryad",
+   "map": "North Shroud",
+   "x": 22,
+   "y": 23,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 38",
+   "mobName": "Downy Aevis",
+   "map": "Coerthas Central Highlands",
+   "x": 26,
+   "y": 10,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 39",
+   "mobName": "Will-o'-the-wisp",
+   "map": "South Shroud",
+   "x": 22,
+   "y": 25,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 40",
+   "mobName": "Dragonfly",
+   "map": "Coerthas Central Highlands",
+   "x": 9,
+   "y": 14,
+   "rank": 4
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 41",
+   "mobName": "Golden Fleece",
+   "map": "Eastern Thanalan",
+   "x": 26,
+   "y": 25,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 42",
+   "mobName": "Grenade",
+   "map": "Outer La Noscea",
+   "x": 22,
+   "y": 13,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 42",
+   "mobName": "Hippocerf",
+   "map": "Coerthas Central Highlands",
+   "x": 10,
+   "y": 18,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 42",
+   "mobName": "Lammergeyer",
+   "map": "Western La Noscea",
+   "x": 12,
+   "y": 36,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 42",
+   "mobName": "Dead Man's Moan",
+   "map": "Western La Noscea",
+   "x": 17,
+   "y": 36,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 43",
+   "mobName": "3rd Cohort Hoplomachus",
+   "map": "East Shroud",
+   "x": 29,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 44",
+   "mobName": "Lesser Kalong",
+   "map": "South Shroud",
+   "x": 28,
+   "y": 22,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 45",
+   "mobName": "Snow Wolf",
+   "map": "Coerthas Central Highlands",
+   "x": 16,
+   "y": 32,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 46",
+   "mobName": "5th Cohort Eques",
+   "map": "Mor Dhona",
+   "x": 12,
+   "y": 17,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 47",
+   "mobName": "Sea Wasp",
+   "map": "Western La Noscea",
+   "x": 14,
+   "y": 17,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 48",
+   "mobName": "Sylph Bonnet",
+   "map": "East Shroud",
+   "x": 26,
+   "y": 13,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 49",
+   "mobName": "Ahriman",
+   "map": "Northern Thanalan ",
+   "x": 24,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "CNJ",
+   "title": "Conjurer 50",
+   "mobName": "2nd Cohort Vanguard",
+   "map": "Eastern La Noscea",
+   "x": 29,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 01",
+   "mobName": "Little Ladybug",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 02",
+   "mobName": "Star Marmot",
+   "map": "Central Thanalan",
+   "x": 20,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 03",
+   "mobName": "Cactuar",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 04",
+   "mobName": "Snapping Shrew",
+   "map": "Central Thanalan",
+   "x": 25,
+   "y": 31,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 05",
+   "mobName": "Hammer Beak",
+   "map": "Western Thanalan",
+   "x": 26,
+   "y": 22,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 06",
+   "mobName": "Antling Worker",
+   "map": "Central Thanalan",
+   "x": 17,
+   "y": 15,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 07",
+   "mobName": "Earth Sprite",
+   "map": "Western Thanalan",
+   "x": 17,
+   "y": 28,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 08",
+   "mobName": "Spriggan Graverobber",
+   "map": "Central Thanalan",
+   "x": 16,
+   "y": 23,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 09",
+   "mobName": "Qiqirn Shellsweeper",
+   "map": "Central Thanalan",
+   "x": 17,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 10",
+   "mobName": "Antling Soldier",
+   "map": "Central Thanalan",
+   "x": 23,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 10",
+   "mobName": "Dusty Mongrel",
+   "map": "Western Thanalan",
+   "x": 22,
+   "y": 21,
+   "rank": 1
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 11",
+   "mobName": "Bomb",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 17,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 11",
+   "mobName": "Copper Coblyn",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 17,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 12",
+   "mobName": "Cochineal Cactuar",
+   "map": "Central Thanalan",
+   "x": 24,
+   "y": 19,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 13",
+   "mobName": "Quiveron Guard",
+   "map": "Central Thanalan",
+   "x": 24,
+   "y": 21,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 14",
+   "mobName": "Giant Tortoise",
+   "map": "Western Thanalan",
+   "x": 21,
+   "y": 26,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 15",
+   "mobName": "Thickshell",
+   "map": "Western Thanalan",
+   "x": 16,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 16",
+   "mobName": "Scaphite",
+   "map": "Western Thanalan",
+   "x": 17,
+   "y": 14,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 17",
+   "mobName": "Tuco-tuco",
+   "map": "Eastern Thanalan",
+   "x": 11,
+   "y": 19,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 18",
+   "mobName": "Myotragus Billy",
+   "map": "Eastern Thanalan",
+   "x": 18,
+   "y": 24,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 19",
+   "mobName": "Vandalous Imp",
+   "map": "Eastern Thanalan",
+   "x": 14,
+   "y": 18,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 20",
+   "mobName": "Rotting Noble",
+   "map": "Eastern Thanalan",
+   "x": 14,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 20",
+   "mobName": "Bloated Bogy",
+   "map": "Western Thanalan",
+   "x": 13,
+   "y": 11,
+   "rank": 2
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 21",
+   "mobName": "Stoneshell",
+   "map": "Upper La Noscea",
+   "x": 14,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 21",
+   "mobName": "Kedtrap",
+   "map": "South Shroud",
+   "x": 21,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 22",
+   "mobName": "Lead Coblyn",
+   "map": "Western Thanalan",
+   "x": 13,
+   "y": 10,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 23",
+   "mobName": "Overgrown Offering",
+   "map": "South Shroud",
+   "x": 18,
+   "y": 19,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 24",
+   "mobName": "Coeurl Pup",
+   "map": "Upper La Noscea",
+   "x": 9,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 25",
+   "mobName": "Balloon",
+   "map": "North Shroud",
+   "x": 17,
+   "y": 26,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 26",
+   "mobName": "Sabotender",
+   "map": "Southern Thanalan",
+   "x": 14,
+   "y": 13,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 27",
+   "mobName": "Qiqirn Roerunner",
+   "map": "Eastern Thanalan",
+   "x": 24,
+   "y": 23,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 28",
+   "mobName": "Goblin Thug",
+   "map": "South Shroud",
+   "x": 27,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 29",
+   "mobName": "Coeurlclaw Cutter",
+   "map": "South Shroud",
+   "x": 28,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 30",
+   "mobName": "Apkallu",
+   "map": "Eastern La Noscea",
+   "x": 28,
+   "y": 36,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 30",
+   "mobName": "Pteroc",
+   "map": "Outer La Noscea",
+   "x": 15,
+   "y": 18,
+   "rank": 3
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 31",
+   "mobName": "Floating Eye",
+   "map": "Central Shroud",
+   "x": 10,
+   "y": 23,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 31",
+   "mobName": "Mamool Ja Sophist",
+   "map": "Upper La Noscea",
+   "x": 27,
+   "y": 23,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 32",
+   "mobName": "Uragnite",
+   "map": "Upper La Noscea",
+   "x": 29,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 32",
+   "mobName": "Adamantoise",
+   "map": "South Shroud",
+   "x": 17,
+   "y": 30,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 33",
+   "mobName": "Sandworm",
+   "map": "Southern Thanalan",
+   "x": 17,
+   "y": 33,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 34",
+   "mobName": "Death Gaze",
+   "map": "Central Shroud",
+   "x": 16,
+   "y": 21,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 35",
+   "mobName": "Velociraptor",
+   "map": "Outer La Noscea",
+   "x": 19,
+   "y": 15,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 36",
+   "mobName": "Fallen Wizard",
+   "map": "Southern Thanalan",
+   "x": 20,
+   "y": 37,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 37",
+   "mobName": "Snow Wolf Pup",
+   "map": "Coerthas Central Highlands",
+   "x": 21,
+   "y": 29,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 38",
+   "mobName": "Treant",
+   "map": "South Shroud",
+   "x": 22,
+   "y": 26,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 39",
+   "mobName": "Vodoriga",
+   "map": "Coerthas Central Highlands",
+   "x": 27,
+   "y": 14,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 40",
+   "mobName": "Hippocerf",
+   "map": "Coerthas Central Highlands",
+   "x": 8,
+   "y": 20,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 40",
+   "mobName": "Grenade",
+   "map": "Outer La Noscea",
+   "x": 22,
+   "y": 13,
+   "rank": 4
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 41",
+   "mobName": "Preying Mantis",
+   "map": "Western La Noscea",
+   "x": 15,
+   "y": 34,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 41",
+   "mobName": "Lammergeyer",
+   "map": "Western La Noscea",
+   "x": 12,
+   "y": 36,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 42",
+   "mobName": "Oldgrowth Treant",
+   "map": "East Shroud",
+   "x": 26,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 42",
+   "mobName": "3rd Cohort Eques",
+   "map": "East Shroud",
+   "x": 29,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 43",
+   "mobName": "Dead Man's Moan",
+   "map": "Western La Noscea",
+   "x": 12,
+   "y": 36,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 43",
+   "mobName": "Morbol",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 44",
+   "mobName": "Mudpuppy",
+   "map": "Mor Dhona",
+   "x": 13,
+   "y": 11,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 45",
+   "mobName": "Lake Cobra",
+   "map": "Mor Dhona",
+   "x": 27,
+   "y": 13,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 46",
+   "mobName": "Giant Lugger",
+   "map": "Coerthas Central Highlands",
+   "x": 13,
+   "y": 27,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 47",
+   "mobName": "Tempered Orator",
+   "map": "Southern Thanalan",
+   "x": 22,
+   "y": 19,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 48",
+   "mobName": "Dullahan",
+   "map": "North Shroud",
+   "x": 22,
+   "y": 19,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 49",
+   "mobName": "Basilisk",
+   "map": "Northern Thanalan ",
+   "x": 25,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 50",
+   "mobName": "Gigas Bhikkhu",
+   "map": "Mor Dhona",
+   "x": 33,
+   "y": 15,
+   "rank": 5
+ },
+ {
+   "class": "GLA",
+   "title": "Gladiator 50",
+   "mobName": "2nd Cohort Hoplomachus",
+   "map": "Eastern La Noscea",
+   "x": 25,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 01",
+   "mobName": "Little Ladybug",
+   "map": "Central Shroud",
+   "x": 24,
+   "y": 18,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 02",
+   "mobName": "Ground Squirrel",
+   "map": "Central Shroud",
+   "x": 22,
+   "y": 17,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 03",
+   "mobName": "Forest Funguar",
+   "map": "Central Shroud",
+   "x": 25,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 04",
+   "mobName": "Miteling",
+   "map": "North Shroud",
+   "x": 26,
+   "y": 26,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 05",
+   "mobName": "Opo-opo",
+   "map": "North Shroud",
+   "x": 27,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 06",
+   "mobName": "Microchu",
+   "map": "Central Shroud",
+   "x": 29,
+   "y": 20,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 07",
+   "mobName": "Black Eft",
+   "map": "Central Shroud",
+   "x": 26,
+   "y": 20,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 07",
+   "mobName": "Bog Yarzon",
+   "map": "Central Shroud",
+   "x": 24,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 08",
+   "mobName": "Hoglet",
+   "map": "Central Shroud",
+   "x": 30,
+   "y": 23,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 09",
+   "mobName": "Anole",
+   "map": "Central Shroud",
+   "x": 31,
+   "y": 20,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 09",
+   "mobName": "Diremite",
+   "map": "Central Shroud",
+   "x": 18,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 10",
+   "mobName": "Tree Slug",
+   "map": "Central Shroud",
+   "x": 24,
+   "y": 28,
+   "rank": 1
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 11",
+   "mobName": "Arbor Buzzard",
+   "map": "Central Shroud",
+   "x": 25,
+   "y": 29,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 12",
+   "mobName": "Treant Sapling",
+   "map": "Central Shroud",
+   "x": 22,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 13",
+   "mobName": "Mandragora",
+   "map": "East Shroud",
+   "x": 14,
+   "y": 25,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 14",
+   "mobName": "Wild Hoglet",
+   "map": "East Shroud",
+   "x": 13,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 15",
+   "mobName": "Lemur",
+   "map": "East Shroud",
+   "x": 20,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 15",
+   "mobName": "Boring Weevil",
+   "map": "East Shroud",
+   "x": 20,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 16",
+   "mobName": "Faerie Funguar",
+   "map": "East Shroud",
+   "x": 19,
+   "y": 28,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 17",
+   "mobName": "Giant Gnat",
+   "map": "East Shroud",
+   "x": 19,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 17",
+   "mobName": "Boar Poacher",
+   "map": "East Shroud",
+   "x": 19,
+   "y": 30,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 18",
+   "mobName": "Ziz Gorlin",
+   "map": "East Shroud",
+   "x": 20,
+   "y": 25,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 19",
+   "mobName": "Black Bat",
+   "map": "East Shroud",
+   "x": 17,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 19",
+   "mobName": "Qiqirn Beater",
+   "map": "South Shroud",
+   "x": 15,
+   "y": 17,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 20",
+   "mobName": "Antelope Doe",
+   "map": "South Shroud",
+   "x": 18,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 21",
+   "mobName": "Stoneshell",
+   "map": "Upper La Noscea",
+   "x": 13,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 22",
+   "mobName": "Smallmouth Orobon",
+   "map": "South Shroud",
+   "x": 16,
+   "y": 18,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 23",
+   "mobName": "Yarzon Scavenger",
+   "map": "North Shroud",
+   "x": 20,
+   "y": 31,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 24",
+   "mobName": "Redbelly Lookout",
+   "map": "South Shroud",
+   "x": 24,
+   "y": 18,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 25",
+   "mobName": "Antelope Stag",
+   "map": "South Shroud",
+   "x": 26,
+   "y": 18,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 25",
+   "mobName": "Moondrip Piledriver",
+   "map": "Western Thanalan",
+   "x": 16,
+   "y": 7,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 26",
+   "mobName": "Sabotender",
+   "map": "Southern Thanalan",
+   "x": 14,
+   "y": 14,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 27",
+   "mobName": "Goblin Thug",
+   "map": "South Shroud",
+   "x": 27,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 27",
+   "mobName": "Sandskin Peiste",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 10,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 28",
+   "mobName": "Corpse Brigade Firedancer",
+   "map": "Southern Thanalan",
+   "x": 24,
+   "y": 9,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 29",
+   "mobName": "Coeurlclaw Poacher",
+   "map": "South Shroud",
+   "x": 28,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 29",
+   "mobName": "Apkallu",
+   "map": "Eastern La Noscea",
+   "x": 28,
+   "y": 35,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 30",
+   "mobName": "Midland Condor",
+   "map": "South Shroud",
+   "x": 17,
+   "y": 26,
+   "rank": 3
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 31",
+   "mobName": "Floating Eye",
+   "map": "Central Shroud",
+   "x": 10,
+   "y": 23,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 32",
+   "mobName": "Large Buffalo",
+   "map": "Eastern La Noscea",
+   "x": 28,
+   "y": 30,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 33",
+   "mobName": "Smoke Bomb",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 34,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 33",
+   "mobName": "Sundrake",
+   "map": "Southern Thanalan",
+   "x": 25,
+   "y": 38,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 34",
+   "mobName": "Spriggan",
+   "map": "Central Shroud",
+   "x": 10,
+   "y": 16,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 35",
+   "mobName": "Basalt Golem",
+   "map": "Outer La Noscea",
+   "x": 13,
+   "y": 15,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 35",
+   "mobName": "Ringtail",
+   "map": "Outer La Noscea",
+   "x": 15,
+   "y": 11,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 36",
+   "mobName": "Ornery Karakul",
+   "map": "Coerthas Central Highlands",
+   "x": 25,
+   "y": 19,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 37",
+   "mobName": "Lesser Kalong",
+   "map": "South Shroud",
+   "x": 22,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 37",
+   "mobName": "Snow Wolf Pup",
+   "map": "Coerthas Central Highlands",
+   "x": 21,
+   "y": 29,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 38",
+   "mobName": "Dryad",
+   "map": "North Shroud",
+   "x": 22,
+   "y": 23,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 39",
+   "mobName": "Bateleur",
+   "map": "Coerthas Central Highlands",
+   "x": 17,
+   "y": 17,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 39",
+   "mobName": "Downy Aevis",
+   "map": "Coerthas Central Highlands",
+   "x": 27,
+   "y": 10,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 40",
+   "mobName": "Mirrorknight",
+   "map": "Eastern Thanalan",
+   "x": 26,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 41",
+   "mobName": "Dragonfly",
+   "map": "Coerthas Central Highlands",
+   "x": 9,
+   "y": 14,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 41",
+   "mobName": "Baritine Croc",
+   "map": "Coerthas Central Highlands",
+   "x": 3,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 42",
+   "mobName": "Dead Man's Moan",
+   "map": "Western La Noscea",
+   "x": 15,
+   "y": 35,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 43",
+   "mobName": "3rd Cohort Signifer",
+   "map": "East Shroud",
+   "x": 32,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 43",
+   "mobName": "Morbol",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 44",
+   "mobName": "Wild Hog",
+   "map": "South Shroud",
+   "x": 29,
+   "y": 24,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 45",
+   "mobName": "Daring Harrier",
+   "map": "Mor Dhona",
+   "x": 16,
+   "y": 15,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 45",
+   "mobName": "Lake Cobra",
+   "map": "Mor Dhona",
+   "x": 25,
+   "y": 12,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 46",
+   "mobName": "Snow Wolf",
+   "map": "Coerthas Central Highlands",
+   "x": 16,
+   "y": 32,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 47",
+   "mobName": "Sea Wasp",
+   "map": "Western La Noscea",
+   "x": 13,
+   "y": 17,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 47",
+   "mobName": "5th Cohort Vanguard",
+   "map": "Mor Dhona",
+   "x": 10,
+   "y": 13,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 48",
+   "mobName": "Natalan Watchwolf",
+   "map": "Coerthas Central Highlands",
+   "x": 34,
+   "y": 23,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 49",
+   "mobName": "Sylphlands Sentinel",
+   "map": "East Shroud",
+   "x": 24,
+   "y": 11,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 49",
+   "mobName": "Basilisk",
+   "map": "Northern Thanalan ",
+   "x": 22,
+   "y": 24,
+   "rank": 5
+ },
+ {
+   "class": "LNC",
+   "title": "Lancer 50",
+   "mobName": "2nd Cohort Eques",
+   "map": "Eastern La Noscea",
+   "x": 30,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 01",
+   "mobName": "Little Ladybug",
+   "map": "Middle La Noscea",
+   "x": 23,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 02",
+   "mobName": "Wharf Rat",
+   "map": "Middle La Noscea",
+   "x": 21,
+   "y": 23,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 03",
+   "mobName": "Aurelia",
+   "map": "Lower La Noscea",
+   "x": 24,
+   "y": 26,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 04",
+   "mobName": "Bee Cloud",
+   "map": "Middle La Noscea",
+   "x": 19,
+   "y": 18,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 05",
+   "mobName": "Wild Dodo",
+   "map": "Lower La Noscea",
+   "x": 29,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 06",
+   "mobName": "Tiny Mandragora",
+   "map": "Middle La Noscea",
+   "x": 22,
+   "y": 18,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 07",
+   "mobName": "Bogy",
+   "map": "Middle La Noscea",
+   "x": 20,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 08",
+   "mobName": "Wounded Aurochs",
+   "map": "Middle La Noscea",
+   "x": 18,
+   "y": 17,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 09",
+   "mobName": "Grounded Raider",
+   "map": "Middle La Noscea",
+   "x": 20,
+   "y": 17,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 10",
+   "mobName": "Megalocrab",
+   "map": "Middle La Noscea",
+   "x": 14,
+   "y": 13,
+   "rank": 1
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 11",
+   "mobName": "Firefly",
+   "map": "Lower La Noscea",
+   "x": 26,
+   "y": 37,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 12",
+   "mobName": "Mossless Goobbue",
+   "map": "Lower La Noscea",
+   "x": 22,
+   "y": 24,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 13",
+   "mobName": "Fat Dodo",
+   "map": "Western La Noscea",
+   "x": 32,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 14",
+   "mobName": "Moraby Mole",
+   "map": "Lower La Noscea",
+   "x": 21,
+   "y": 34,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 15",
+   "mobName": "Qiqirn Eggdigger",
+   "map": "Lower La Noscea",
+   "x": 18,
+   "y": 35,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 16",
+   "mobName": "Rhotano Buccaneer",
+   "map": "Western La Noscea",
+   "x": 33,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 17",
+   "mobName": "Dusk Bat",
+   "map": "Western La Noscea",
+   "x": 28,
+   "y": 24,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 17",
+   "mobName": "Puk Hatchling",
+   "map": "Western La Noscea",
+   "x": 28,
+   "y": 24,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 17",
+   "mobName": "Hedgemole",
+   "map": "Western La Noscea",
+   "x": 26,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 18",
+   "mobName": "Rothlyt Pelican",
+   "map": "Western La Noscea",
+   "x": 24,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 19",
+   "mobName": "Killer Mantis",
+   "map": "Western La Noscea",
+   "x": 21,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 20",
+   "mobName": "Wild Wolf",
+   "map": "Upper La Noscea",
+   "x": 13,
+   "y": 26,
+   "rank": 2
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 21",
+   "mobName": "Stoneshell",
+   "map": "Upper La Noscea",
+   "x": 13,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 22",
+   "mobName": "Diseased Treant",
+   "map": "East Shroud",
+   "x": 17,
+   "y": 23,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 23",
+   "mobName": "Yarzon Scavenger",
+   "map": "Western Thanalan",
+   "x": 15,
+   "y": 7,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 24",
+   "mobName": "Redbelly Larcener",
+   "map": "South Shroud",
+   "x": 23,
+   "y": 19,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 25",
+   "mobName": "Shroud Hare",
+   "map": "North Shroud",
+   "x": 17,
+   "y": 27,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 26",
+   "mobName": "Sabotender",
+   "map": "Southern Thanalan",
+   "x": 14,
+   "y": 14,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 27",
+   "mobName": "Balloon",
+   "map": "North Shroud",
+   "x": 17,
+   "y": 26,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 27",
+   "mobName": "Phurble",
+   "map": "Eastern Thanalan",
+   "x": 22,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 27",
+   "mobName": "Sandskin Peiste",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 10,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 28",
+   "mobName": "Axe Beak",
+   "map": "Eastern Thanalan",
+   "x": 27,
+   "y": 17,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 29",
+   "mobName": "Toadstool",
+   "map": "Central Shroud",
+   "x": 14,
+   "y": 17,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 30",
+   "mobName": "Floating Eye",
+   "map": "Central Shroud",
+   "x": 10,
+   "y": 23,
+   "rank": 3
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 31",
+   "mobName": "Stroper",
+   "map": "South Shroud",
+   "x": 19,
+   "y": 28,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 32",
+   "mobName": "Adamantoise",
+   "map": "South Shroud",
+   "x": 15,
+   "y": 29,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 32",
+   "mobName": "Smoke Bomb",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 34,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 32",
+   "mobName": "Grass Raptor",
+   "map": "Eastern La Noscea",
+   "x": 15,
+   "y": 26,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 33",
+   "mobName": "Snipper",
+   "map": "Eastern La Noscea",
+   "x": 31,
+   "y": 35,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 34",
+   "mobName": "Bloodshore Bell",
+   "map": "Eastern La Noscea",
+   "x": 31,
+   "y": 26,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 35",
+   "mobName": "Jungle Coeurl",
+   "map": "Eastern La Noscea",
+   "x": 19,
+   "y": 28,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 36",
+   "mobName": "Snow Wolf Pup",
+   "map": "Coerthas Central Highlands",
+   "x": 21,
+   "y": 29,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 37",
+   "mobName": "Redhorn Ogre",
+   "map": "Coerthas Central Highlands",
+   "x": 24,
+   "y": 13,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 37",
+   "mobName": "Ornery Karakul",
+   "map": "Coerthas Central Highlands",
+   "x": 25,
+   "y": 19,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 37",
+   "mobName": "Highland Goobbue",
+   "map": "Coerthas Central Highlands",
+   "x": 25,
+   "y": 19,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 38",
+   "mobName": "Downy Aevis",
+   "map": "Coerthas Central Highlands",
+   "x": 26,
+   "y": 10,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 39",
+   "mobName": "Snowstorm Goobbue",
+   "map": "Coerthas Central Highlands",
+   "x": 19,
+   "y": 17,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 40",
+   "mobName": "Grenade",
+   "map": "Outer La Noscea",
+   "x": 23,
+   "y": 13,
+   "rank": 4
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 41",
+   "mobName": "Molted Ziz",
+   "map": "East Shroud",
+   "x": 25,
+   "y": 24,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 42",
+   "mobName": "Quartz Doblyn",
+   "map": "Eastern Thanalan",
+   "x": 31,
+   "y": 26,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 42",
+   "mobName": "Dead Man's Moan",
+   "map": "Western La Noscea",
+   "x": 15,
+   "y": 35,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 42",
+   "mobName": "Morbol",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 43",
+   "mobName": "Crater Golem",
+   "map": "Central Shroud",
+   "x": 11,
+   "y": 17,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 44",
+   "mobName": "Wild Hog",
+   "map": "South Shroud",
+   "x": 29,
+   "y": 24,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 45",
+   "mobName": "Biast",
+   "map": "Coerthas Central Highlands",
+   "x": 16,
+   "y": 30,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 46",
+   "mobName": "5th Cohort Signifer",
+   "map": "Mor Dhona",
+   "x": 9,
+   "y": 14,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 47",
+   "mobName": "Synthetic Doblyn",
+   "map": "Outer La Noscea",
+   "x": 23,
+   "y": 8,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 47",
+   "mobName": "Watchwolf",
+   "map": "North Shroud",
+   "x": 20,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 47",
+   "mobName": "Iron Tortoise",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 23,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 48",
+   "mobName": "Milkroot Cluster",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 16,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 49",
+   "mobName": "4th Cohort Secutor",
+   "map": "Western Thanalan",
+   "x": 10,
+   "y": 6,
+   "rank": 5
+ },
+ {
+   "class": "MRD",
+   "title": "Marauder 50",
+   "mobName": "2nd Cohort Laquearius",
+   "map": "Eastern La Noscea",
+   "x": 28,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 01",
+   "mobName": "Huge Hornet",
+   "map": "Central Thanalan",
+   "x": 21,
+   "y": 26,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 02",
+   "mobName": "Star Marmot",
+   "map": "Central Thanalan",
+   "x": 20,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 03",
+   "mobName": "Cactuar",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 04",
+   "mobName": "Snapping Shrew",
+   "map": "Central Thanalan",
+   "x": 23,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 05",
+   "mobName": "Orobon",
+   "map": "Central Thanalan",
+   "x": 21,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 06",
+   "mobName": "Nesting Buzzard",
+   "map": "Western Thanalan",
+   "x": 21,
+   "y": 25,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 07",
+   "mobName": "Spriggan Graverobber",
+   "map": "Central Thanalan",
+   "x": 17,
+   "y": 23,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 08",
+   "mobName": "Goblin Mugger",
+   "map": "Western Thanalan",
+   "x": 18,
+   "y": 26,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 09",
+   "mobName": "Sandtoad",
+   "map": "Western Thanalan",
+   "x": 22,
+   "y": 22,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 10",
+   "mobName": "Eft",
+   "map": "Central Thanalan",
+   "x": 23,
+   "y": 18,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 10",
+   "mobName": "Sun Midge Swarm",
+   "map": "Western Thanalan",
+   "x": 17,
+   "y": 15,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 10",
+   "mobName": "Desert Peiste",
+   "map": "Western Thanalan",
+   "x": 24,
+   "y": 20,
+   "rank": 1
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 11",
+   "mobName": "Bomb",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 12",
+   "mobName": "Cochineal Cactuar",
+   "map": "Central Thanalan",
+   "x": 25,
+   "y": 21,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 13",
+   "mobName": "Antling Sentry",
+   "map": "Central Thanalan",
+   "x": 16,
+   "y": 14,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 14",
+   "mobName": "Giant Tortoise",
+   "map": "Western Thanalan",
+   "x": 28,
+   "y": 25,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 15",
+   "mobName": "Arbor Buzzard",
+   "map": "Western Thanalan",
+   "x": 17,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 15",
+   "mobName": "Scaphite",
+   "map": "Western Thanalan",
+   "x": 17,
+   "y": 14,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 15",
+   "mobName": "Thickshell",
+   "map": "Western Thanalan",
+   "x": 16,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 16",
+   "mobName": "Tuco-tuco",
+   "map": "Eastern Thanalan",
+   "x": 15,
+   "y": 20,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 17",
+   "mobName": "Myotragus Nanny",
+   "map": "Eastern Thanalan",
+   "x": 18,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 18",
+   "mobName": "Blowfly Swarm",
+   "map": "Eastern Thanalan",
+   "x": 11,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 19",
+   "mobName": "Vandalous Imp",
+   "map": "Eastern Thanalan",
+   "x": 14,
+   "y": 18,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 20",
+   "mobName": "Bloated Bogy",
+   "map": "Western Thanalan",
+   "x": 13,
+   "y": 11,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 20",
+   "mobName": "Rotting Corpse",
+   "map": "Eastern Thanalan",
+   "x": 15,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 20",
+   "mobName": "Rotting Noble",
+   "map": "Eastern Thanalan",
+   "x": 15,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 21",
+   "mobName": "Overgrown Ivy",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 29,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 22",
+   "mobName": "Smallmouth Orobon",
+   "map": "South Shroud",
+   "x": 16,
+   "y": 18,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 23",
+   "mobName": "Forest Yarzon",
+   "map": "Upper La Noscea",
+   "x": 11,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 24",
+   "mobName": "Coeurl Pup",
+   "map": "Upper La Noscea",
+   "x": 9,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 25",
+   "mobName": "Shroud Hare",
+   "map": "North Shroud",
+   "x": 21,
+   "y": 30,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 25",
+   "mobName": "Bark Eft",
+   "map": "South Shroud",
+   "x": 17,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 25",
+   "mobName": "Fallen Mage",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 17,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 26",
+   "mobName": "Ziz",
+   "map": "North Shroud",
+   "x": 16,
+   "y": 27,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 27",
+   "mobName": "Corpse Brigade Knuckledancer",
+   "map": "Southern Thanalan",
+   "x": 24,
+   "y": 9,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 28",
+   "mobName": "Clay Golem",
+   "map": "North Shroud",
+   "x": 16,
+   "y": 29,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 29",
+   "mobName": "Coeurlclaw Hunter",
+   "map": "South Shroud",
+   "x": 28,
+   "y": 22,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 30",
+   "mobName": "Lindwurm",
+   "map": "Central Shroud",
+   "x": 13,
+   "y": 19,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 30",
+   "mobName": "Bigmouth Orobon",
+   "map": "South Shroud",
+   "x": 18,
+   "y": 30,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 30",
+   "mobName": "Apkallu",
+   "map": "Eastern La Noscea",
+   "x": 28,
+   "y": 35,
+   "rank": 3
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 31",
+   "mobName": "Mamool Ja Breeder",
+   "map": "Upper La Noscea",
+   "x": 33,
+   "y": 25,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 32",
+   "mobName": "Russet Yarzon",
+   "map": "Southern Thanalan",
+   "x": 14,
+   "y": 32,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 33",
+   "mobName": "Smoke Bomb",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 34,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 34",
+   "mobName": "Death Gaze",
+   "map": "Central Shroud",
+   "x": 17,
+   "y": 22,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 35",
+   "mobName": "Jungle Coeurl",
+   "map": "Eastern La Noscea",
+   "x": 17,
+   "y": 28,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 35",
+   "mobName": "Goobbue",
+   "map": "Eastern La Noscea",
+   "x": 17,
+   "y": 31,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 35",
+   "mobName": "Basalt Golem",
+   "map": "Outer La Noscea",
+   "x": 13,
+   "y": 15,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 36",
+   "mobName": "Velociraptor",
+   "map": "Outer La Noscea",
+   "x": 19,
+   "y": 15,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 37",
+   "mobName": "Highland Goobbue",
+   "map": "Coerthas Central Highlands",
+   "x": 23,
+   "y": 29,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 38",
+   "mobName": "Feral Croc",
+   "map": "Coerthas Central Highlands",
+   "x": 25,
+   "y": 20,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 39",
+   "mobName": "Redhorn Ogre",
+   "map": "Coerthas Central Highlands",
+   "x": 26,
+   "y": 12,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 40",
+   "mobName": "Ochu",
+   "map": "East Shroud",
+   "x": 26,
+   "y": 21,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 40",
+   "mobName": "Molted Ziz",
+   "map": "East Shroud",
+   "x": 25,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 40",
+   "mobName": "Snowstorm Goobbue",
+   "map": "Coerthas Central Highlands",
+   "x": 24,
+   "y": 17,
+   "rank": 4
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 41",
+   "mobName": "Quartz Doblyn",
+   "map": "Eastern Thanalan",
+   "x": 31,
+   "y": 26,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 42",
+   "mobName": "Dead Man's Moan",
+   "map": "Western La Noscea",
+   "x": 15,
+   "y": 35,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 43",
+   "mobName": "3rd Cohort Signifer",
+   "map": "East Shroud",
+   "x": 32,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 44",
+   "mobName": "Wild Hog",
+   "map": "South Shroud",
+   "x": 29,
+   "y": 24,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 45",
+   "mobName": "Raging Harrier",
+   "map": "Mor Dhona",
+   "x": 16,
+   "y": 15,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 45",
+   "mobName": "Biast",
+   "map": "Coerthas Central Highlands",
+   "x": 11,
+   "y": 29,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 45",
+   "mobName": "Gigas Shramana",
+   "map": "Mor Dhona",
+   "x": 27,
+   "y": 11,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 46",
+   "mobName": "Snow Wolf",
+   "map": "Coerthas Central Highlands",
+   "x": 16,
+   "y": 32,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 47",
+   "mobName": "5th Cohort Hoplomachus",
+   "map": "Mor Dhona",
+   "x": 12,
+   "y": 12,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 48",
+   "mobName": "Dreamtoad",
+   "map": "East Shroud",
+   "x": 26,
+   "y": 18,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 49",
+   "mobName": "Hapalit",
+   "map": "Mor Dhona",
+   "x": 31,
+   "y": 5,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 50",
+   "mobName": "Zahar'ak Battle Drake",
+   "map": "Southern Thanalan",
+   "x": 29,
+   "y": 19,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 50",
+   "mobName": "Basilisk",
+   "map": "Northern Thanalan ",
+   "x": 22,
+   "y": 24,
+   "rank": 5
+ },
+ {
+   "class": "PGL",
+   "title": "Pugilist 50",
+   "mobName": "Shelfclaw Reaver",
+   "map": "Western La Noscea",
+   "x": 13,
+   "y": 16,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 01",
+   "mobName": "Wharf Rat",
+   "map": "Middle La Noscea",
+   "x": 21,
+   "y": 23,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 02",
+   "mobName": "Lost Lamb",
+   "map": "Middle La Noscea",
+   "x": 23,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 03",
+   "mobName": "Aurelia",
+   "map": "Lower La Noscea",
+   "x": 24,
+   "y": 26,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 04",
+   "mobName": "Wild Dodo",
+   "map": "Lower La Noscea",
+   "x": 29,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 05",
+   "mobName": "Pugil",
+   "map": "Middle La Noscea",
+   "x": 20,
+   "y": 22,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 05",
+   "mobName": "Goblin Fisher",
+   "map": "Middle La Noscea",
+   "x": 23,
+   "y": 21,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 06",
+   "mobName": "Tiny Mandragora",
+   "map": "Middle La Noscea",
+   "x": 22,
+   "y": 18,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 07",
+   "mobName": "Cave Bat",
+   "map": "Lower La Noscea",
+   "x": 25,
+   "y": 15,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 08",
+   "mobName": "Galago",
+   "map": "Lower La Noscea",
+   "x": 29,
+   "y": 14,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 09",
+   "mobName": "Grounded Pirate",
+   "map": "Middle La Noscea",
+   "x": 20,
+   "y": 16,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 09",
+   "mobName": "Grounded Raider",
+   "map": "Middle La Noscea",
+   "x": 20,
+   "y": 17,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 10",
+   "mobName": "Megalocrab",
+   "map": "Middle La Noscea",
+   "x": 14,
+   "y": 13,
+   "rank": 1
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 11",
+   "mobName": "Wild Jackal",
+   "map": "Western La Noscea",
+   "x": 34,
+   "y": 28,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 12",
+   "mobName": "Roseling",
+   "map": "Western La Noscea",
+   "x": 34,
+   "y": 30,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 12",
+   "mobName": "Sewer Mole",
+   "map": "Western La Noscea",
+   "x": 33,
+   "y": 28,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 13",
+   "mobName": "Fat Dodo",
+   "map": "Western La Noscea",
+   "x": 32,
+   "y": 27,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 14",
+   "mobName": "Moraby Mole",
+   "map": "Lower La Noscea",
+   "x": 21,
+   "y": 34,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 15",
+   "mobName": "Qiqirn Eggdigger",
+   "map": "Lower La Noscea",
+   "x": 18,
+   "y": 35,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 16",
+   "mobName": "Puk Hatchling",
+   "map": "Western La Noscea",
+   "x": 28,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 17",
+   "mobName": "Rothlyt Pelican",
+   "map": "Western La Noscea",
+   "x": 24,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 18",
+   "mobName": "Killer Mantis",
+   "map": "Western La Noscea",
+   "x": 21,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 18",
+   "mobName": "Hedgemole",
+   "map": "Western La Noscea",
+   "x": 26,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 19",
+   "mobName": "Wild Wolf",
+   "map": "Upper La Noscea",
+   "x": 13,
+   "y": 26,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 20",
+   "mobName": "Bumble Beetle",
+   "map": "Upper La Noscea",
+   "x": 12,
+   "y": 23,
+   "rank": 2
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 21",
+   "mobName": "Black Bat",
+   "map": "East Shroud",
+   "x": 17,
+   "y": 22,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 22",
+   "mobName": "Gall Gnat",
+   "map": "East Shroud",
+   "x": 22,
+   "y": 30,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 23",
+   "mobName": "Overgrown Ivy",
+   "map": "East Shroud",
+   "x": 22,
+   "y": 29,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 24",
+   "mobName": "Bark Eft",
+   "map": "South Shroud",
+   "x": 18,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 25",
+   "mobName": "Redbelly Lookout",
+   "map": "South Shroud",
+   "x": 23,
+   "y": 18,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 25",
+   "mobName": "Redbelly Larcener",
+   "map": "South Shroud",
+   "x": 23,
+   "y": 18,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 26",
+   "mobName": "Antelope Stag",
+   "map": "South Shroud",
+   "x": 26,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 27",
+   "mobName": "River Yarzon",
+   "map": "South Shroud",
+   "x": 23,
+   "y": 22,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 28",
+   "mobName": "Corpse Brigade Knuckledancer",
+   "map": "Southern Thanalan",
+   "x": 24,
+   "y": 11,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 28",
+   "mobName": "Corpse Brigade Firedancer",
+   "map": "Southern Thanalan",
+   "x": 24,
+   "y": 11,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 29",
+   "mobName": "Coeurlclaw Hunter",
+   "map": "South Shroud",
+   "x": 28,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 29",
+   "mobName": "Coeurlclaw Cutter",
+   "map": "South Shroud",
+   "x": 28,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 30",
+   "mobName": "Sandstone Golem",
+   "map": "Southern Thanalan",
+   "x": 22,
+   "y": 12,
+   "rank": 3
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 31",
+   "mobName": "Large Buffalo",
+   "map": "Eastern La Noscea",
+   "x": 28,
+   "y": 30,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 32",
+   "mobName": "Grass Raptor",
+   "map": "Eastern La Noscea",
+   "x": 16,
+   "y": 25,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 33",
+   "mobName": "Qiqirn Gullroaster",
+   "map": "Eastern La Noscea",
+   "x": 27,
+   "y": 33,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 33",
+   "mobName": "Colibri",
+   "map": "Eastern La Noscea",
+   "x": 31,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 34",
+   "mobName": "Coeurl",
+   "map": "Outer La Noscea",
+   "x": 14,
+   "y": 14,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 34",
+   "mobName": "Highland Condor",
+   "map": "Outer La Noscea",
+   "x": 15,
+   "y": 17,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 35",
+   "mobName": "Basalt Golem",
+   "map": "Outer La Noscea",
+   "x": 13,
+   "y": 15,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 36",
+   "mobName": "Velociraptor",
+   "map": "Outer La Noscea",
+   "x": 19,
+   "y": 15,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 37",
+   "mobName": "Feral Croc",
+   "map": "Coerthas Central Highlands",
+   "x": 25,
+   "y": 20,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 37",
+   "mobName": "Highland Goobbue",
+   "map": "Coerthas Central Highlands",
+   "x": 25,
+   "y": 20,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 38",
+   "mobName": "Redhorn Ogre",
+   "map": "Coerthas Central Highlands",
+   "x": 26,
+   "y": 12,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 39",
+   "mobName": "Taurus",
+   "map": "Coerthas Central Highlands",
+   "x": 32,
+   "y": 12,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 40",
+   "mobName": "Bateleur",
+   "map": "Coerthas Central Highlands",
+   "x": 16,
+   "y": 19,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 40",
+   "mobName": "Chinchilla",
+   "map": "Coerthas Central Highlands",
+   "x": 16,
+   "y": 19,
+   "rank": 4
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 41",
+   "mobName": "Golden Fleece",
+   "map": "Eastern Thanalan",
+   "x": 26,
+   "y": 25,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 42",
+   "mobName": "Quartz Doblyn",
+   "map": "Eastern Thanalan",
+   "x": 30,
+   "y": 25,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 43",
+   "mobName": "Nix",
+   "map": "Mor Dhona",
+   "x": 19,
+   "y": 9,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 44",
+   "mobName": "Mudpuppy",
+   "map": "Mor Dhona",
+   "x": 13,
+   "y": 11,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 45",
+   "mobName": "Daring Harrier",
+   "map": "Mor Dhona",
+   "x": 16,
+   "y": 15,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 45",
+   "mobName": "Raging Harrier",
+   "map": "Mor Dhona",
+   "x": 16,
+   "y": 15,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 46",
+   "mobName": "Gigas Shramana",
+   "map": "Mor Dhona",
+   "x": 27,
+   "y": 11,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 46",
+   "mobName": "Gigas Sozu",
+   "map": "Mor Dhona",
+   "x": 27,
+   "y": 11,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 47",
+   "mobName": "Hippogryph",
+   "map": "Mor Dhona",
+   "x": 27,
+   "y": 8,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 48",
+   "mobName": "Hapalit",
+   "map": "Mor Dhona",
+   "x": 31,
+   "y": 5,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 49",
+   "mobName": "2nd Cohort Eques",
+   "map": "Eastern La Noscea",
+   "x": 29,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 49",
+   "mobName": "2nd Cohort Signifer",
+   "map": "Eastern La Noscea",
+   "x": 29,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 50",
+   "mobName": "2nd Cohort Secutors",
+   "map": "Eastern La Noscea",
+   "x": 30,
+   "y": 19,
+   "rank": 5
+ },
+ {
+   "class": "ROG",
+   "title": "Rogue 50",
+   "mobName": "2nd Cohort Vanguard",
+   "map": "Eastern La Noscea",
+   "x": 30,
+   "y": 19,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 01",
+   "mobName": "Little Ladybug",
+   "map": "Western Thanalan",
+   "x": 28,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 02",
+   "mobName": "Huge Hornet",
+   "map": "Central Thanalan",
+   "x": 22,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 03",
+   "mobName": "Cactuar",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 24,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 04",
+   "mobName": "Snapping Shrew",
+   "map": "Central Thanalan",
+   "x": 24,
+   "y": 30,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 05",
+   "mobName": "Syrphid Cloud",
+   "map": "Central Thanalan",
+   "x": 18,
+   "y": 21,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 06",
+   "mobName": "Yarzon Feeder",
+   "map": "Western Thanalan",
+   "x": 24,
+   "y": 27,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 07",
+   "mobName": "Rusty Coblyn",
+   "map": "Western Thanalan",
+   "x": 20,
+   "y": 28,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 08",
+   "mobName": "Spriggan Graverobber",
+   "map": "Central Thanalan",
+   "x": 18,
+   "y": 23,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 09",
+   "mobName": "Qiqirn Shellsweeper",
+   "map": "Central Thanalan",
+   "x": 17,
+   "y": 19,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 10",
+   "mobName": "Sun Bat",
+   "map": "Central Thanalan",
+   "x": 26,
+   "y": 18,
+   "rank": 1
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 11",
+   "mobName": "Copper Coblyn",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 11",
+   "mobName": "Bomb",
+   "map": "Western Thanalan",
+   "x": 27,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 12",
+   "mobName": "Cochineal Cactuar",
+   "map": "Central Thanalan",
+   "x": 23,
+   "y": 19,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 12",
+   "mobName": "Quiveron Attendant",
+   "map": "Central Thanalan",
+   "x": 23,
+   "y": 20,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 13",
+   "mobName": "Giant Tortoise",
+   "map": "Western Thanalan",
+   "x": 21,
+   "y": 26,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 13",
+   "mobName": "Antling Sentry",
+   "map": "Central Thanalan",
+   "x": 19,
+   "y": 17,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 14",
+   "mobName": "Thickshell",
+   "map": "Western Thanalan",
+   "x": 16,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 15",
+   "mobName": "Toxic Toad",
+   "map": "Central Thanalan",
+   "x": 27,
+   "y": 18,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 16",
+   "mobName": "Tuco-tuco",
+   "map": "Eastern Thanalan",
+   "x": 15,
+   "y": 24,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 17",
+   "mobName": "Myotragus Nanny",
+   "map": "Eastern Thanalan",
+   "x": 18,
+   "y": 22,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 18",
+   "mobName": "Blowfly Swarm",
+   "map": "Eastern Thanalan",
+   "x": 12,
+   "y": 21,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 19",
+   "mobName": "Rotting Corpse",
+   "map": "Eastern Thanalan",
+   "x": 15,
+   "y": 16,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 20",
+   "mobName": "Bloated Bogy",
+   "map": "Western Thanalan",
+   "x": 13,
+   "y": 11,
+   "rank": 2
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 21",
+   "mobName": "Kedtrap",
+   "map": "South Shroud",
+   "x": 21,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 21",
+   "mobName": "Overgrown Ivy",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 29,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 22",
+   "mobName": "Yarzon Scavenger",
+   "map": "Western Thanalan",
+   "x": 15,
+   "y": 8,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 22",
+   "mobName": "Forest Yarzon",
+   "map": "Upper La Noscea",
+   "x": 11,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 23",
+   "mobName": "Laughing Toad",
+   "map": "Western Thanalan",
+   "x": 15,
+   "y": 7,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 23",
+   "mobName": "Bark Eft",
+   "map": "South Shroud",
+   "x": 17,
+   "y": 24,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 24",
+   "mobName": "Jumping Djigga",
+   "map": "East Shroud",
+   "x": 15,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 24",
+   "mobName": "Glowfly",
+   "map": "East Shroud",
+   "x": 15,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 25",
+   "mobName": "River Yarzon",
+   "map": "South Shroud",
+   "x": 23,
+   "y": 22,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 26",
+   "mobName": "Potter Wasp Swarm",
+   "map": "Southern Thanalan",
+   "x": 20,
+   "y": 16,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 27",
+   "mobName": "Phurble",
+   "map": "Eastern Thanalan",
+   "x": 23,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 28",
+   "mobName": "Corpse Brigade Knuckledancer",
+   "map": "Southern Thanalan",
+   "x": 24,
+   "y": 9,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 29",
+   "mobName": "Fire Sprite",
+   "map": "Southern Thanalan",
+   "x": 13,
+   "y": 20,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 30",
+   "mobName": "Stroper",
+   "map": "Central Shroud",
+   "x": 12,
+   "y": 21,
+   "rank": 3
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 31",
+   "mobName": "Adamantoise",
+   "map": "South Shroud",
+   "x": 16,
+   "y": 30,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 31",
+   "mobName": "Mamool Ja Executioner",
+   "map": "Upper La Noscea",
+   "x": 27,
+   "y": 23,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 32",
+   "mobName": "Revenant",
+   "map": "Central Shroud",
+   "x": 12,
+   "y": 20,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 32",
+   "mobName": "Russet Yarzon",
+   "map": "Southern Thanalan",
+   "x": 14,
+   "y": 32,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 33",
+   "mobName": "Smoke Bomb",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 35,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 33",
+   "mobName": "Dung Midge Swarm",
+   "map": "Eastern La Noscea",
+   "x": 18,
+   "y": 28,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 34",
+   "mobName": "Gigantoad",
+   "map": "Eastern La Noscea",
+   "x": 18,
+   "y": 26,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 34",
+   "mobName": "Spriggan",
+   "map": "Central Shroud",
+   "x": 11,
+   "y": 16,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 35",
+   "mobName": "Salamander",
+   "map": "Upper La Noscea",
+   "x": 28,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 36",
+   "mobName": "Plasmoid",
+   "map": "Outer La Noscea",
+   "x": 25,
+   "y": 18,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 37",
+   "mobName": "Ice Sprite",
+   "map": "Coerthas Central Highlands",
+   "x": 20,
+   "y": 31,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 38",
+   "mobName": "Feral Croc",
+   "map": "Coerthas Central Highlands",
+   "x": 26,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 39",
+   "mobName": "Will-o'-the-wisp",
+   "map": "South Shroud",
+   "x": 23,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 40",
+   "mobName": "Golden Fleece",
+   "map": "Eastern Thanalan",
+   "x": 27,
+   "y": 24,
+   "rank": 4
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 41",
+   "mobName": "Oldgrowth Treant",
+   "map": "East Shroud",
+   "x": 25,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 41",
+   "mobName": "Dragonfly",
+   "map": "Coerthas Central Highlands",
+   "x": 9,
+   "y": 14,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 42",
+   "mobName": "Crater Golem",
+   "map": "Central Shroud",
+   "x": 10,
+   "y": 16,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 42",
+   "mobName": "Dead Man's Moan",
+   "map": "Western La Noscea",
+   "x": 15,
+   "y": 34,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 43",
+   "mobName": "3rd Cohort Secutor",
+   "map": "East Shroud",
+   "x": 32,
+   "y": 20,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 43",
+   "mobName": "Morbol",
+   "map": "East Shroud",
+   "x": 23,
+   "y": 21,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 44",
+   "mobName": "Nix",
+   "map": "Mor Dhona",
+   "x": 19,
+   "y": 9,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 44",
+   "mobName": "Lesser Kalong",
+   "map": "South Shroud",
+   "x": 28,
+   "y": 22,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 45",
+   "mobName": "Gigas Sozu",
+   "map": "Mor Dhona",
+   "x": 29,
+   "y": 14,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 45",
+   "mobName": "Giant Logger",
+   "map": "Coerthas Central Highlands",
+   "x": 13,
+   "y": 26,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 46",
+   "mobName": "Iron Tortoise",
+   "map": "Southern Thanalan",
+   "x": 19,
+   "y": 23,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 47",
+   "mobName": "Synthetic Doblyn",
+   "map": "Outer La Noscea",
+   "x": 23,
+   "y": 8,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 48",
+   "mobName": "Ked",
+   "map": "South Shroud",
+   "x": 32,
+   "y": 24,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 49",
+   "mobName": "4th Cohort Hoplomachus",
+   "map": "Western Thanalan",
+   "x": 12,
+   "y": 7,
+   "rank": 5
+ },
+ {
+   "class": "THM",
+   "title": "Thaumaturge 50",
+   "mobName": "2nd Cohort Signifer",
+   "map": "Eastern La Noscea",
+   "x": 27,
+   "y": 21,
+   "rank": 5
+ }
+]

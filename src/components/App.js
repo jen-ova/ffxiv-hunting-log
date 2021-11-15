@@ -1,52 +1,37 @@
+import React from "react";
 import "../styles/App.css";
-import { MapContainer, ImageOverlay, Marker, Popup } from "react-leaflet";
-import { CRS } from "leaflet";
-import arcanistmiddlelanoscea from "../data/arcanist-middlelanoscea.json";
-import huntIcon from "../helpers/huntIcon.js";
+import FilterSideBar from "./FilterSideBar";
+import Map from "./Map";
+import MonsterListSideBar from "./MonsterListSideBar";
+import NavBar from "./NavBar";
+import MapProvider from "./store/MapProvider";
 
 function App() {
-  console.log(arcanistmiddlelanoscea);
-  const toLatLong = ([x, y]) => [42 - y, x];
-  return (
-    <div className="App">
-      <MapContainer
-        bounds={[
-          [1, 1],
-          [42, 42],
-        ]}
-        maxBounds={[
-          [1, 1],
-          [42, 42],
-        ]}
-        attributionControl={false}
-        crs={CRS.Simple}
-        zoomSnap={0}
-        minZoom={4}
-        maxZoom={7}>
-        <ImageOverlay
-          bounds={[
-            [1, 1],
-            [42, 42],
-          ]}
-          url="https://xivapi.com/m/s1f1/s1f1.00.jpg"
-        />
+  // const [region, setRegion] = useState({ region: "Middle La Noscea" });
 
-        {arcanistmiddlelanoscea.map((arc) => (
-          <Marker
-            key={arc.id}
-            position={toLatLong([arc.x, arc.y])}
-            icon={huntIcon}>
-            <Popup>
-              <img src={arc.mobIcon} alt={arc.mobName} />
-              <p>{arc.mobName}</p>
-              <p>
-                X: {arc.x}, Y: {arc.y}
-              </p>
-            </Popup>
-          </Marker>
-        ))}
-      </MapContainer>
-    </div>
+  // const handleCurrentZone = (event) => {
+  //   event.preventDefault();
+  //   setRegion({ region: event.target.value });
+  // };
+
+  return (
+    <MapProvider>
+      <div className="app">
+        <div className="navBar">
+          <NavBar />
+        </div>
+        <div className="sideBar__filter">
+          {/* <FilterSideBar region={region} handleCurrentZone={handleCurrentZone} /> */}
+          <FilterSideBar />
+        </div>
+        <div className="map">
+          <Map />
+        </div>
+        <div className="sideBar__list">
+          <MonsterListSideBar />
+        </div>
+      </div>
+    </MapProvider>
   );
 }
 
