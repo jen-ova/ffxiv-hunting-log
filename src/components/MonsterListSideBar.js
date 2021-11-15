@@ -15,7 +15,7 @@ const MonsterListSideBar = () => {
             value="littleladybug"
             checked
           />
-          <label for="littleladybug">Little Ladybug</label>
+          <label htmlFor="littleladybug">Little Ladybug</label>
         </div>
         <div>
           <input
@@ -25,7 +25,7 @@ const MonsterListSideBar = () => {
             value="wharfrat"
             checked
           />
-          <label for="wharfrat">Wharf Rat</label>
+          <label htmlFor="wharfrat">Wharf Rat</label>
         </div>
         <div>
           <input
@@ -34,7 +34,7 @@ const MonsterListSideBar = () => {
             name="lostlamb"
             value="lostlamb"
           />
-          <label for="lostlamb">Lost Lamb</label>
+          <label htmlFor="lostlamb">Lost Lamb</label>
         </div>
         <div>
           <input
@@ -43,7 +43,7 @@ const MonsterListSideBar = () => {
             name="windsprite"
             value="windsprite"
           />
-          <label for="windsprite">Wind Sprite</label>
+          <label htmlFor="windsprite">Wind Sprite</label>
         </div>
         <div>
           <input
@@ -52,7 +52,7 @@ const MonsterListSideBar = () => {
             name="pukhatchling"
             value="pukhatchling"
           />
-          <label for="pukhatchling">Puk Hatchling</label>
+          <label htmlFor="pukhatchling">Puk Hatchling</label>
         </div>
       </div>
     </Wrapper>

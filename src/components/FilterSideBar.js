@@ -24,7 +24,9 @@ const FilterSideBar = () => {
           <label htmlFor="region">Select a region</label>
           <select name="region" id="region">
             {mapImages.map((mapImage) => (
-              <option value={mapImage.slug}>{mapImage.title}</option>
+              <option value={mapImage.slug} key={`option-${mapImage.slug}`}>
+                {mapImage.title}
+              </option>
             ))}
           </select>
         </div>

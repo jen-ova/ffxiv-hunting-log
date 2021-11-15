@@ -6,41 +6,35 @@ import arcanistmiddlelanoscea from "../data/arcanist-middlelanoscea.json";
 import huntIcon from "../helpers/huntIcon.js";
 import "../styles/map.css";
 import mapImages from "../helpers/mapImages";
-import middlelanoscea from "../data/assets/maps/middle-la-noscea.jpg";
-import eastShroud from "../data/assets/maps/east-shroud.jpg";
-import westernthanalan from "../data/assets/maps/western-thanalan.jpg";
 
 const Map = () => {
-  const [mapOverlay, setMapOverlay] = useState({
-    imageUrl: middlelanoscea,
-  });
-
-  console.log(mapOverlay.imageUrl);
+  const [mapOverlayImage, setMapOverlayImage] = useState(
+    "assets/maps/middle-la-noscea.jpg"
+  );
 
   const handleImageUrl = (e) => {
-    // const region = e.target.getAttribute("data-region");
-    // next step need to filter through mapImages same as nasa project
-    setMapOverlay({
-      // imageUrl: "../data/assets/maps/" + region + ".jpg",
-    });
-    // console.log(region);
+    e.preventDefault();
+
+    const dropdownOverlay = mapImages.filter(
+      (mapImage) => mapImage.slug === e.target.value
+    );
+
+    setMapOverlayImage(dropdownOverlay[0].src);
   };
 
-  const handleEastShroud = () => {
-    setMapOverlay({ imageUrl: eastShroud });
-  };
-
-  const handleWesternThanalan = () => {
-    setMapOverlay({ imageUrl: westernthanalan });
+  const handleButtonClick = (imgName) => {
+    setMapOverlayImage(`assets/maps/${imgName}.jpg`);
   };
 
   const toLatLong = ([x, y]) => [42 - y, x];
   return (
     <Wrapper>
-      <button type="button" onClick={handleEastShroud}>
+      <button type="button" onClick={() => handleButtonClick("east-shroud")}>
         East Shroud
       </button>
-      <button type="button" onClick={handleWesternThanalan}>
+      <button
+        type="button"
+        onClick={() => handleButtonClick("western-thanalan")}>
         Western Thanalan
       </button>
       <select id="imageUrl" onChange={handleImageUrl}>
@@ -75,7 +69,7 @@ const Map = () => {
               [1, 1],
               [42, 42],
             ]}
-            url={mapOverlay.imageUrl}
+            url={mapOverlayImage}
           />
 
           {arcanistmiddlelanoscea.map((arc) => (
