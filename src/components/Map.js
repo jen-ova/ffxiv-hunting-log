@@ -16,7 +16,6 @@ const Map = () => {
   });
 
   console.log(mapOverlay.imageUrl);
-  console.log(mapImages.[0].src);
 
   const handleImageUrl = (e) => {
     // const region = e.target.getAttribute("data-region");
@@ -38,7 +37,7 @@ const Map = () => {
   const toLatLong = ([x, y]) => [42 - y, x];
   return (
     <Wrapper>
-      <button type="button" onClick={() => handleEastShroud}>
+      <button type="button" onClick={handleEastShroud}>
         East Shroud
       </button>
       <button type="button" onClick={handleWesternThanalan}>
