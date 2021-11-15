@@ -3,7 +3,7 @@ import Wrapper from "./Wrapper";
 import { MapContext } from "./store/MapProvider";
 import { MapContainer, ImageOverlay, Marker, Popup } from "react-leaflet";
 import { CRS } from "leaflet";
-import arcanistmiddlelanoscea from "../data/arcanist-middlelanoscea.json";
+// import arcanistmiddlelanoscea from "../data/arcanist-middlelanoscea.json";
 import huntIcon from "../helpers/huntIcon.js";
 import "../styles/map.css";
 
@@ -36,7 +36,7 @@ const Map = () => {
             url={mapOverlayImage && mapOverlayImage}
           />
 
-          {arcanistmiddlelanoscea.map((arc) => (
+          {/* {arcanistmiddlelanoscea.map((arc) => (
             <Marker
               key={arc.id}
               position={toLatLong([arc.x, arc.y])}
@@ -48,8 +48,12 @@ const Map = () => {
                   X: {arc.x}, Y: {arc.y}
                 </p>
               </Popup>
-            </Marker>
-          ))}
+            </Marker> */}
+          {/* ))} */}
+          {/* <Marker
+            key={title}
+            position={toLatLong([x, y])}
+            icon={huntIcon}></Marker> */}
         </MapContainer>
       </div>
     </Wrapper>

@@ -1,18 +1,26 @@
 import React, { useContext } from "react";
 import Wrapper from "./Wrapper";
 import { MapContext } from "./store/MapProvider";
+import { MarkerContext } from "./store/MarkerProvider";
 import "../styles/filterSideBar.css";
-import mapImages from "../helpers/mapImages";
+import mapImages from "../data/mapImages.json";
 
 const FilterSideBar = () => {
   const { handleImageUrl } = useContext(MapContext);
+  const { handleMarkers } = useContext(MarkerContext);
 
   return (
     <Wrapper>
       <div className="filterSideBar-container">
         <div className="filterSideBar__job">
           <p>Select your job(s)</p>
-          <p>GLD PUG MRD LNC ARC ROG CNJ THM ACN</p>
+          <p>
+            GLD PUG MRD LNC
+            <button type="button" onClick={handleMarkers}>
+              ARC
+            </button>
+            ROG CNJ THM ACN
+          </p>
         </div>
         <div className="filterSideBar__region">
           <label htmlFor="region">Select a region</label>

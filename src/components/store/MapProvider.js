@@ -1,5 +1,5 @@
 import React, { createContext, useState } from "react";
-import mapImages from "../../helpers/mapImages";
+import mapImages from "../../data/mapImages.json";
 
 export const MapContext = createContext();
 
