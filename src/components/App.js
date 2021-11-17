@@ -6,6 +6,7 @@ import MonsterListSideBar from "./MonsterListSideBar";
 import NavBar from "./NavBar";
 import MapProvider from "./store/MapProvider";
 import MarkerProvider from "./store/MarkerProvider";
+import RankProvider from "./store/RankProvider";
 
 function App() {
   // const [region, setRegion] = useState({ region: "Middle La Noscea" });
@@ -18,21 +19,23 @@ function App() {
   return (
     <MapProvider>
       <MarkerProvider>
-        <div className="app">
-          <div className="navBar">
-            <NavBar />
+        <RankProvider>
+          <div className="app">
+            <div className="navBar">
+              <NavBar />
+            </div>
+            <div className="sideBar__filter">
+              {/* <FilterSideBar region={region} handleCurrentZone={handleCurrentZone} /> */}
+              <FilterSideBar />
+            </div>
+            <div className="map">
+              <Map />
+            </div>
+            <div className="sideBar__list">
+              <MonsterListSideBar />
+            </div>
           </div>
-          <div className="sideBar__filter">
-            {/* <FilterSideBar region={region} handleCurrentZone={handleCurrentZone} /> */}
-            <FilterSideBar />
-          </div>
-          <div className="map">
-            <Map />
-          </div>
-          <div className="sideBar__list">
-            <MonsterListSideBar />
-          </div>
-        </div>
+        </RankProvider>
       </MarkerProvider>
     </MapProvider>
   );
