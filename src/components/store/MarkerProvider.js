@@ -1,24 +1,35 @@
 import React, { createContext, useState } from "react";
 import ffxivhuntinglogdata from "../../data/ffxiv-hunting-log-data.json";
+// import mapImages from "../../data/mapImages.json";
 
 export const MarkerContext = createContext();
 
 const MarkerProvider = ({ children }) => {
-  const [markerFilter, setMarkerFilter] = useState();
+  const [markerFilter, setMarkerFilter] = useState([
+    {
+      class: "",
+      title: "",
+      mobName: "",
+      map: "",
+      x: null,
+      y: null,
+      rank: null,
+    },
+  ]);
 
   const handleMarkers = (e) => {
     e.preventDefault();
-    const arcanistData = ffxivhuntinglogdata.filter(
-      (logData) => logData.class === "ACN"
-    );
-    const arcanistMarkers = arcanistData.map((arcMarker) => ({
-      title: arcMarker.title,
-      map: arcMarker.map,
-      x: arcMarker.x,
-      y: arcMarker.y,
-    }));
-    setMarkerFilter(arcanistData);
-    console.log(arcanistMarkers);
+    const arcanistMarkers = ffxivhuntinglogdata
+      .filter((logData) => logData.class === "ACN")
+      .map((arcMarker) => ({
+        title: arcMarker.title,
+        mobName: arcMarker.mobName,
+        map: arcMarker.map,
+        x: arcMarker.x,
+        y: arcMarker.y,
+      }));
+
+    setMarkerFilter(arcanistMarkers);
   };
 
   const markerData = { markerFilter, setMarkerFilter, handleMarkers };
