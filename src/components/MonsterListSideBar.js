@@ -1,58 +1,41 @@
-import React from "react";
+import React, { useContext } from "react";
 import Wrapper from "./Wrapper";
+import { MapContext } from "./store/MapProvider";
+import { MarkerContext } from "./store/MarkerProvider";
+import { RankContext } from "./store/RankProvider";
 import "../styles/monsterListSideBar.css";
 
 const MonsterListSideBar = () => {
+  const { mapOverlayImage } = useContext(MapContext);
+  const { markerFilter } = useContext(MarkerContext);
+  const { rank } = useContext(RankContext);
+
+  const monsterList = markerFilter.filter(
+    (regionMarker) =>
+      regionMarker.map === mapOverlayImage.title && regionMarker.rank === rank
+  );
+  console.log(monsterList.mobName);
+
   return (
     <Wrapper>
       <div className="monsterList">
         <p>Monster List</p>
         <div>
-          <input
-            type="checkbox"
-            id="littleladybug"
-            name="littleladybug"
-            value="littleladybug"
-            checked
-          />
-          <label htmlFor="littleladybug">Little Ladybug</label>
-        </div>
-        <div>
-          <input
-            type="checkbox"
-            id="wharfrat"
-            name="wharfrat"
-            value="wharfrat"
-            checked
-          />
-          <label htmlFor="wharfrat">Wharf Rat</label>
-        </div>
-        <div>
-          <input
-            type="checkbox"
-            id="lostlamb"
-            name="lostlamb"
-            value="lostlamb"
-          />
-          <label htmlFor="lostlamb">Lost Lamb</label>
-        </div>
-        <div>
-          <input
-            type="checkbox"
-            id="windsprite"
-            name="windsprite"
-            value="windsprite"
-          />
-          <label htmlFor="windsprite">Wind Sprite</label>
-        </div>
-        <div>
-          <input
-            type="checkbox"
-            id="pukhatchling"
-            name="pukhatchling"
-            value="pukhatchling"
-          />
-          <label htmlFor="pukhatchling">Puk Hatchling</label>
+          <>
+            {monsterList.map((monster) => (
+              <>
+                <p>
+                  <input
+                    type="checkbox"
+                    id={monster.mobName}
+                    name={monster.mobName}
+                    value={monster.mobName}
+                  />
+                  <label htmlFor={monster.mobName}>{monster.mobName}</label>
+                </p>
+              </>
+            ))}
+          </>
         </div>
       </div>
     </Wrapper>

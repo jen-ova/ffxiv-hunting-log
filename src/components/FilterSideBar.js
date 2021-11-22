@@ -1,18 +1,33 @@
 import React, { useContext } from "react";
 import Wrapper from "./Wrapper";
 import { MapContext } from "./store/MapProvider";
+import { MarkerContext } from "./store/MarkerProvider";
+import { RankContext } from "./store/RankProvider";
 import "../styles/filterSideBar.css";
-import mapImages from "../helpers/mapImages";
+import mapImages from "../data/mapImages.json";
+import constants from "../data/constants";
 
 const FilterSideBar = () => {
   const { handleImageUrl } = useContext(MapContext);
+  const { handleMarkers } = useContext(MarkerContext);
+  const { handleRank } = useContext(RankContext);
 
   return (
     <Wrapper>
       <div className="filterSideBar-container">
         <div className="filterSideBar__job">
           <p>Select your job(s)</p>
-          <p>GLD PUG MRD LNC ARC ROG CNJ THM ACN</p>
+          <p>
+            {constants.jobs.map((job) => (
+              <button
+                type="button"
+                key={job}
+                value={job}
+                onClick={handleMarkers}>
+                {job}
+              </button>
+            ))}
+          </p>
         </div>
         <div className="filterSideBar__region">
           <label htmlFor="region">Select a region</label>
@@ -26,7 +41,7 @@ const FilterSideBar = () => {
         </div>
         <div className="filterSideBar__rank">
           <label htmlFor="rank">Select a rank</label>
-          <select name="rank" id="rank">
+          <select name="rank" id="rank" onChange={handleRank}>
             <option value="1">1</option>
             <option value="2">2</option>
             <option value="3">3</option>
