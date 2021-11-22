@@ -14,7 +14,6 @@ const MonsterListSideBar = () => {
     (regionMarker) =>
       regionMarker.map === mapOverlayImage.title && regionMarker.rank === rank
   );
-  console.log(monsterList.mobName);
 
   return (
     <Wrapper>
@@ -23,7 +22,6 @@ const MonsterListSideBar = () => {
         <div>
           <>
             {monsterList.map((monster) => (
-              <>
                 <p>
                   <input
                     type="checkbox"
@@ -33,7 +31,6 @@ const MonsterListSideBar = () => {
                   />
                   <label htmlFor={monster.mobName}>{monster.mobName}</label>
                 </p>
-              </>
             ))}
           </>
         </div>

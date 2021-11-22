@@ -9,7 +9,7 @@ import constants from "../data/constants";
 
 const FilterSideBar = () => {
   const { handleImageUrl } = useContext(MapContext);
-  const { handleMarkers } = useContext(MarkerContext);
+  const { handleMarkers, checkedState } = useContext(MarkerContext);
   const { handleRank } = useContext(RankContext);
 
   return (
@@ -18,14 +18,17 @@ const FilterSideBar = () => {
         <div className="filterSideBar__job">
           <p>Select your job(s)</p>
           <p>
-            {constants.jobs.map((job) => (
-              <button
-                type="button"
+            {constants.jobs.map((job, index) => (
+              <>
+              <input
+                type="checkbox"
                 key={job}
                 value={job}
-                onClick={handleMarkers}>
-                {job}
-              </button>
+                checked={checkedState[index]}
+                onChange={() => handleMarkers(index)}
+              />
+              <label htmlFor={job}>{job}</label>
+              </>
             ))}
           </p>
         </div>

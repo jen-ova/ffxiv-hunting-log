@@ -1,9 +1,13 @@
 import React, { createContext, useState } from "react";
+import constants from "../../data/constants";
 import ffxivhuntinglogdata from "../../data/ffxiv-hunting-log-data.json";
 
 export const MarkerContext = createContext();
 
 const MarkerProvider = ({ children }) => {
+  const [checkedState, setCheckedState] = useState(
+    new Array(constants.jobs.length).fill(false)
+  );
   const [markerFilter, setMarkerFilter] = useState([
     {
       class: "",
@@ -16,8 +20,11 @@ const MarkerProvider = ({ children }) => {
     },
   ]);
 
-  const handleMarkers = (e) => {
+  const handleMarkers = (e, position) => {
     e.preventDefault();
+    
+    const updatedCheckedState = checkedState.map((item, index) => index === position ? !item : item);
+    
     const jobMarkers = ffxivhuntinglogdata
       .filter((logData) => logData.class === e.target.value)
       .map((jobMarker) => ({
@@ -30,10 +37,11 @@ const MarkerProvider = ({ children }) => {
       }));
 
     setMarkerFilter(jobMarkers);
+    setCheckedState(updatedCheckedState);
     console.log(e.target.value);
   };
 
-  const markerData = { markerFilter, setMarkerFilter, handleMarkers };
+  const markerData = { markerFilter, setMarkerFilter, handleMarkers, checkedState };
 
   return (
     <MarkerContext.Provider value={markerData}>
