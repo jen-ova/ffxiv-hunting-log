@@ -12,14 +12,20 @@ const Map = () => {
   const { mapOverlayImage } = useContext(MapContext);
   const { markerFilter } = useContext(MarkerContext);
   const { rank } = useContext(RankContext);
-  // console.log(markerFilter);
+  console.log(markerFilter);
 
   const regionMarkers = markerFilter.filter(
     (regionMarker) =>
       regionMarker.map === mapOverlayImage.title && regionMarker.rank === rank
   );
-  // console.log(regionMarkers);
-  // console.log(rank);
+  console.log(regionMarkers);
+
+  // const rankMarkers = regionMarkers.filter(
+  //   (rankMarker) => rankMarker.rank === rank
+  // );
+
+  // console.log(rankMarkers);
+  console.log(typeof rank);
 
   const toLatLong = ([x, y]) => [42 - y, x];
   return (

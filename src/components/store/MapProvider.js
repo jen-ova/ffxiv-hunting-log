@@ -18,7 +18,6 @@ const MapProvider = ({ children }) => {
       title: dropdownOverlay[0].title,
       src: dropdownOverlay[0].src,
     });
-    console.log(mapOverlayImage.src);
   };
 
   const mapData = { mapOverlayImage, setMapOverlayImage, handleImageUrl };

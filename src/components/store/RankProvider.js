@@ -7,7 +7,7 @@ const RankProvider = ({ children }) => {
 
   const handleRank = (e) => {
     e.preventDefault();
-    setRank(e.target.value);
+    setRank(parseInt(e.target.value));
   };
 
   const rankData = { rank, setRank, handleRank };
