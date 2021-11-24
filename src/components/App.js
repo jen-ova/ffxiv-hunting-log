@@ -4,40 +4,26 @@ import FilterSideBar from "./FilterSideBar";
 import Map from "./Map";
 import MonsterListSideBar from "./MonsterListSideBar";
 import NavBar from "./NavBar";
-import MapProvider from "./store/MapProvider";
-import MarkerProvider from "./store/MarkerProvider";
-import RankProvider from "./store/RankProvider";
+import FilterProvider from "./store/FilterProvider";
 
 function App() {
-  // const [region, setRegion] = useState({ region: "Middle La Noscea" });
-
-  // const handleCurrentZone = (event) => {
-  //   event.preventDefault();
-  //   setRegion({ region: event.target.value });
-  // };
-
   return (
-    <MapProvider>
-      <MarkerProvider>
-        <RankProvider>
-          <div className="app">
-            <div className="navBar">
-              <NavBar />
-            </div>
-            <div className="sideBar__filter">
-              {/* <FilterSideBar region={region} handleCurrentZone={handleCurrentZone} /> */}
-              <FilterSideBar />
-            </div>
-            <div className="map">
-              <Map />
-            </div>
-            <div className="sideBar__list">
-              <MonsterListSideBar />
-            </div>
-          </div>
-        </RankProvider>
-      </MarkerProvider>
-    </MapProvider>
+    <FilterProvider>
+      <div className="app">
+        <div className="navBar">
+          <NavBar />
+        </div>
+        <div className="sideBar__filter">
+          <FilterSideBar />
+        </div>
+        <div className="map">
+          <Map />
+        </div>
+        <div className="sideBar__list">
+          <MonsterListSideBar />
+        </div>
+      </div>
+    </FilterProvider>
   );
 }
 

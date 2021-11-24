@@ -1,31 +1,13 @@
 import React, { useContext } from "react";
 import Wrapper from "./Wrapper";
-import { MapContext } from "./store/MapProvider";
-import { MarkerContext } from "./store/MarkerProvider";
-import { RankContext } from "./store/RankProvider";
+import { FilterContext } from "./store/FilterProvider";
 import { MapContainer, ImageOverlay, Marker, Popup } from "react-leaflet";
 import { CRS } from "leaflet";
 import huntIcon from "../helpers/huntIcon.js";
 import "../styles/map.css";
 
 const Map = () => {
-  const { mapOverlayImage } = useContext(MapContext);
-  const { markerFilter } = useContext(MarkerContext);
-  const { rank } = useContext(RankContext);
-  console.log(markerFilter);
-
-  const regionMarkers = markerFilter.filter(
-    (regionMarker) =>
-      regionMarker.map === mapOverlayImage.title && regionMarker.rank === rank
-  );
-  console.log(regionMarkers);
-
-  // const rankMarkers = regionMarkers.filter(
-  //   (rankMarker) => rankMarker.rank === rank
-  // );
-
-  // console.log(rankMarkers);
-  console.log(typeof rank);
+  const { mapOverlayImage, markerList } = useContext(FilterContext);
 
   const toLatLong = ([x, y]) => [42 - y, x];
   return (
@@ -52,15 +34,16 @@ const Map = () => {
             ]}
             url={mapOverlayImage.src}
           />
-          {regionMarkers !== undefined &&
-            regionMarkers.map((regionMark) => (
+          {markerList !== undefined &&
+            markerList.map((regionMark, i) => (
               <Marker
-                key={regionMarkers.index}
+                key={i}
                 position={toLatLong([regionMark.x, regionMark.y])}
                 icon={huntIcon}>
                 <Popup>
                   {/* <img src={arc.mobIcon} alt={arc.mobName} /> */}
                   <p>{regionMark.mobName}</p>
+                  <p>{regionMark.title}</p>
                   <p>
                     X: {regionMark.x}, Y: {regionMark.y}
                   </p>

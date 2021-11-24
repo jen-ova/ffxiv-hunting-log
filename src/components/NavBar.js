@@ -5,7 +5,7 @@ import "../styles/navBar.css";
 const NavBar = () => {
   return (
     <Wrapper>
-      <div className="navBar">
+      <div className="navBar__container">
         <p>FFXIV Hunting Log</p>
         Login / Logout / Register
       </div>
