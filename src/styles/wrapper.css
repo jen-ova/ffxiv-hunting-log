@@ -1,0 +1,12 @@
+.wrapper {
+  margin: 1rem;
+  background: #343334;
+  color: #fff;
+  border: 4px solid goldenrod;
+  border-top-color: #8b7e51;
+  border-right-color: #94794a;
+  border-bottom-color: #8a6f42;
+  border-left-color: #94865a;
+  border-style: groove;
+  border-radius: 10px;
+}

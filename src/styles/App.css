@@ -2,9 +2,11 @@
   display: grid;
   grid-template-columns: 1fr 5fr 1fr;
   grid-template-rows: 1fr 9fr;
+  background: #343334;
 }
 
 .navBar {
+  grid-column: 1 / 7;
   grid-row: 1 / 2;
 }
 
