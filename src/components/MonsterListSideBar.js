@@ -1,16 +1,12 @@
 import React, { useContext } from "react";
 import Wrapper from "./Wrapper";
-import { MapContext } from "./store/MapProvider";
-import { MarkerContext } from "./store/MarkerProvider";
-import { RankContext } from "./store/RankProvider";
+import { FilterContext } from "./store/FilterProvider";
 import "../styles/monsterListSideBar.css";
 
 const MonsterListSideBar = () => {
-  const { mapOverlayImage } = useContext(MapContext);
-  const { markerFilter } = useContext(MarkerContext);
-  const { rank } = useContext(RankContext);
+  const { mapOverlayImage, markerList, rank } = useContext(FilterContext);
 
-  const monsterList = markerFilter.filter(
+  const monsterList = markerList.filter(
     (regionMarker) =>
       regionMarker.map === mapOverlayImage.title && regionMarker.rank === rank
   );
@@ -22,15 +18,15 @@ const MonsterListSideBar = () => {
         <div>
           <>
             {monsterList.map((monster) => (
-                <p>
-                  <input
-                    type="checkbox"
-                    id={monster.mobName}
-                    name={monster.mobName}
-                    value={monster.mobName}
-                  />
-                  <label htmlFor={monster.mobName}>{monster.mobName}</label>
-                </p>
+              <p>
+                <input
+                  type="checkbox"
+                  id={monster.mobName}
+                  name={monster.mobName}
+                  value={monster.mobName}
+                />
+                <label htmlFor={monster.mobName}>{monster.mobName}</label>
+              </p>
             ))}
           </>
         </div>

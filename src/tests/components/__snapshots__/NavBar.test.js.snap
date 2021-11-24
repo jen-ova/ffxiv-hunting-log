@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar renders correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="navBar"
+    >
+      <p>
+        FFXIV Hunting Log
+      </p>
+      Login / Logout / Register
+    </div>
+  </div>
+</DocumentFragment>
+`;
