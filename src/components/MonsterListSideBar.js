@@ -18,7 +18,7 @@ const MonsterListSideBar = () => {
         <div>
           <>
             {monsterList.map((monster) => (
-              <p>
+              <p className="monsterList__item">
                 <input
                   type="checkbox"
                   id={monster.mobName}

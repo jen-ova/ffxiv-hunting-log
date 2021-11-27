@@ -11,3 +11,11 @@
   text-transform: uppercase;
   color: #caaf75;
 }
+
+.monsterList__item {
+  margin-bottom: 1rem;
+}
+
+.monsterList__item input {
+  margin-right: 0.5rem;
+}
