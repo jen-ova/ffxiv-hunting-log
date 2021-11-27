@@ -2,7 +2,13 @@
   display: grid;
   grid-template-columns: 1fr 5fr 1fr;
   grid-template-rows: 1fr 9fr;
-  background: #343334;
+  background: linear-gradient(
+      135deg,
+      rgba(245, 227, 191, 0.8),
+      rgba(152, 155, 137, 0.8)
+    ),
+    url("../images/ffxiv-maps-eorzea-region-unedited.jpg") no-repeat;
+  background-size: cover;
 }
 
 .navBar {

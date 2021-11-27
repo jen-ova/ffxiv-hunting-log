@@ -35,31 +35,31 @@
 }
 
 #GLD {
-  background-image: url("../data/class/GLD.png");
+  background-image: url("../images/class/GLD.png");
 }
 #PUG {
-  background-image: url("../data/class/PUG.png");
+  background-image: url("../images/class/PUG.png");
 }
 #MRD {
-  background-image: url("../data/class/MRD.png");
+  background-image: url("../images/class/MRD.png");
 }
 #LNC {
-  background-image: url("../data/class/LNC.png");
+  background-image: url("../images/class/LNC.png");
 }
 #ARC {
-  background-image: url("../data/class/ARC.png");
+  background-image: url("../images/class/ARC.png");
 }
 #ROG {
-  background-image: url("../data/class/ROG.png");
+  background-image: url("../images/class/ROG.png");
 }
 #CNJ {
-  background-image: url("../data/class/CNJ.png");
+  background-image: url("../images/class/CNJ.png");
 }
 #THM {
-  background-image: url("../data/class/THM.png");
+  background-image: url("../images/class/THM.png");
 }
 #ACN {
-  background-image: url("../data/class/ACN.png");
+  background-image: url("../images/class/ACN.png");
 }
 
 .filterSideBar__job input[type="checkbox"]:checked {
