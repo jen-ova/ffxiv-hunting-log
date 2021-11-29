@@ -11,24 +11,31 @@ const MonsterListSideBar = () => {
       regionMarker.map === mapOverlayImage.title && regionMarker.rank === rank
   );
 
+  const jobTitle = [...new Set(monsterList.map((monster) => monster.class))];
+
   return (
     <Wrapper>
       <div className="monsterList">
         <p className="monsterList__title">Monster List</p>
-        <div>
-          <>
-            {monsterList.map((monster, i) => (
-              <div key={`${monster}-${i}`}>
-                <input
-                  type="checkbox"
-                  id={monster.mobName}
-                  name={monster.mobName}
-                  value={monster.mobName}
-                />
-                <label htmlFor={monster.mobName}>{monster.mobName}</label>
-              </div>
-            ))}
-          </>
+        <div className="monsterList__byJob">
+          {jobTitle.map((name) => (
+            <>
+              <h4>{name}</h4>
+              {monsterList
+                .filter((monster) => monster.class === name)
+                .map((monster, i) => (
+                  <div key={`${monster}-${i}`}>
+                    <input
+                      type="checkbox"
+                      id={monster.mobName}
+                      name={monster.mobName}
+                      value={monster.mobName}
+                    />
+                    <label htmlFor={monster.mobName}>{monster.mobName}</label>
+                  </div>
+                ))}
+            </>
+          ))}
         </div>
       </div>
     </Wrapper>

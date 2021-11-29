@@ -36,6 +36,7 @@ const FilterProvider = ({ children }) => {
     const jobMarkers = ffxivhuntinglogdata
       .filter((logData) => checkedState[logData.class] === true)
       .map((jobMarker) => ({
+        class: jobMarker.class,
         title: jobMarker.title,
         mobName: jobMarker.mobName,
         map: jobMarker.map,
