@@ -5,9 +5,9 @@ import "../styles/navBar.css";
 const NavBar = () => {
   return (
     <Wrapper>
-      <div className="navBar__container">
-        <p>FFXIV Hunting Log</p>
-        Login / Logout / Register
+      <div className="navBar-container">
+        <h1 className="navbar-container__title">FFXIV Hunting Log</h1>
+        <p className="navbar-container__account">Login <span class="navbar-container__account-separator">|</span> Register</p>
       </div>
     </Wrapper>
   );
