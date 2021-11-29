@@ -71,18 +71,21 @@
   margin-top: 2rem;
 }
 
-#imageUrl,
-#rank {
+#imageUrl {
   width: 100%;
-  height: 40px;
+  height: 30px;
   font-size: 1rem;
-  background: #454445;
-  color: #fff;
 }
 
 /* RANK */
 .filterSideBar__rank {
   margin-top: 2rem;
+}
+
+#rank {
+  width: 100%;
+  height: 30px;
+  font-size: 1rem;
 }
 
 /* MOBILE */
