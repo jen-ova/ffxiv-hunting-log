@@ -17,8 +17,8 @@ const MonsterListSideBar = () => {
         <p className="monsterList__title">Monster List</p>
         <div>
           <>
-            {monsterList.map((monster) => (
-              <p className="monsterList__item">
+            {monsterList.map((monster, i) => (
+              <div key={`${monster}-${i}`}>
                 <input
                   type="checkbox"
                   id={monster.mobName}
@@ -26,7 +26,7 @@ const MonsterListSideBar = () => {
                   value={monster.mobName}
                 />
                 <label htmlFor={monster.mobName}>{monster.mobName}</label>
-              </p>
+              </div>
             ))}
           </>
         </div>
