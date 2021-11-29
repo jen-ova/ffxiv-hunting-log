@@ -19,3 +19,8 @@
 .monsterList__item input {
   margin-right: 0.5rem;
 }
+
+/* MOBILE */
+.monsterList {
+  display: none;
+}

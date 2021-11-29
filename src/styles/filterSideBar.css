@@ -87,3 +87,8 @@
   height: 30px;
   font-size: 1rem;
 }
+
+/* MOBILE */
+.filterSideBar-container {
+  /* display: none; */
+}
