@@ -15,24 +15,26 @@ const FilterSideBar = () => {
         <div className="filterSideBar__job">
           <p className="filterSideBar__job-title">Class</p>
           <div className="filterSideBar__job_container">
-          {constants.jobs.map((job, index, e) => (
-            <div className="filterSideBar__job-item" key={job}>
-              <input
-                type="checkbox"
-                value={job}
-                id={job}
-                checked={checkedState[index]}
-                onChange={() => {
-                  handleChange(job);
-                }}
-              />
-              <label htmlFor={job}>{job}</label>
-            </div>
-          ))}
+            {constants.jobs.map((job, index) => (
+              <div className="filterSideBar__job-item" key={job}>
+                <input
+                  type="checkbox"
+                  value={job}
+                  id={job}
+                  checked={checkedState[index]}
+                  onChange={() => {
+                    handleChange(job);
+                  }}
+                />
+                <label htmlFor={job}>{job}</label>
+              </div>
+            ))}
           </div>
         </div>
         <div className="filterSideBar__region">
-          <label htmlFor="region" className="filterSideBar__region-title">Region</label>
+          <label htmlFor="region" className="filterSideBar__region-title">
+            Region
+          </label>
           <select id="imageUrl" onChange={handleImageUrl}>
             {mapImages.map((mapImage) => (
               <option value={mapImage.slug} key={`option-${mapImage.slug}`}>
@@ -42,7 +44,9 @@ const FilterSideBar = () => {
           </select>
         </div>
         <div className="filterSideBar__rank">
-          <label htmlFor="rank" className="filterSideBar__rank-title">Rank</label>
+          <label htmlFor="rank" className="filterSideBar__rank-title">
+            Rank
+          </label>
           <select name="rank" id="rank" onChange={handleRank}>
             <option value="1">1</option>
             <option value="2">2</option>
