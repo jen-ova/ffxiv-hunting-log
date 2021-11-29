@@ -1,32 +1,36 @@
-/* .app {
-  display: grid;
-  grid-template-columns: 1fr 5fr 1fr;
-  grid-template-rows: 1fr 9fr;
-  background: linear-gradient(
-      135deg,
-      rgba(245, 227, 191, 0.8),
-      rgba(152, 155, 137, 0.8)
-    ),
-    url("../images/ffxiv-maps-eorzea-region-unedited.jpg") no-repeat;
-  background-size: cover;
-}
+/* DESKTOP */
+@media (min-width: 810px) {
+  .app {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    grid-template-rows: 0fr 1fr;
+    background: linear-gradient(
+        135deg,
+        rgba(245, 227, 191, 0.8),
+        rgba(152, 155, 137, 0.8)
+      ),
+      url("../images/ffxiv-maps-eorzea-region-unedited.jpg") no-repeat;
+    background-size: cover;
+  }
 
-.navBar {
-  grid-column: 1 / 7;
-  grid-row: 1 / 2;
-}
+  .navBar {
+    grid-column: 1 / 7;
+    grid-row: 1 / 2;
+  }
 
-.sideBar__filter {
-  grid-column: 1 / 2;
-  grid-row: 2 / 9;
-}
+  .sideBar__filter {
+    grid-column: 1 / 2;
+    grid-row: 2;
+  }
 
-.map {
-  grid-column: 2 / 6;
-  grid-row: 2 / 9;
-}
+  .map {
+    grid-column: 2 / 3;
+    grid-row: 2;
+  }
 
-.sideBar__list {
-  grid-column: 6 / 7;
-  grid-row: 2 / 9;
-} */
+  .sideBar__list {
+    grid-column: 3 / 7;
+    grid-row: 2;
+  }
+}

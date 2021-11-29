@@ -1,5 +1,5 @@
 .leaflet-container {
-  height: 90vh;
+  height: 80vh;
 }
 
 .huntIcon {
@@ -7,10 +7,12 @@
 }
 
 /* MOBILE */
-.leaflet-container {
-  height: calc(100vh - 55px);
-}
+@media (max-width: 809px) {
+  .leaflet-container {
+    height: calc(100vh - 55px);
+  }
 
-.leaflet-control {
-  display: none;
+  .leaflet-control {
+    display: none;
+  }
 }

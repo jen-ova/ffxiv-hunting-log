@@ -71,10 +71,14 @@
   margin-top: 2rem;
 }
 
-#imageUrl {
+#imageUrl,
+#rank {
   width: 100%;
-  height: 30px;
+  height: 40px;
   font-size: 1rem;
+  background: #454445;
+  color: #fff;
+  padding-left: 1rem;
 }
 
 /* RANK */
@@ -82,13 +86,14 @@
   margin-top: 2rem;
 }
 
-#rank {
-  width: 100%;
-  height: 30px;
-  font-size: 1rem;
-}
-
 /* MOBILE */
 .filterSideBar-container {
-  /* display: none; */
+  display: none;
+}
+
+/* DESKTOP */
+@media (min-width: 810px) {
+  .filterSideBar-container {
+    display: block;
+  }
 }

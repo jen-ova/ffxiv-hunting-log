@@ -1,19 +1,22 @@
-/* .wrapper {
-  margin: 1rem;
-  background: #343334;
-  color: #fff;
-  border: 5px solid goldenrod;
-  border-top-color: #ceb37a;
-  border-right-color: #ceb37a;
-  border-bottom-color: #ceb37a;
-  border-left-color: #ceb37a;
-  border-style: groove;
-  border-radius: 13px;
-  box-shadow: -2px -2px 2 0px #ffe9a5, 2px 2px 2 0px #000;
-} */
-
 /* MOBILE */
 .wrapper {
   background: #343334;
   color: #fff;
+}
+
+/* DESKTOP */
+@media (min-width: 810px) {
+  .wrapper {
+    margin: 1rem;
+    background: #343334;
+    color: #fff;
+    border: 5px solid goldenrod;
+    border-top-color: #ceb37a;
+    border-right-color: #ceb37a;
+    border-bottom-color: #ceb37a;
+    border-left-color: #ceb37a;
+    border-style: groove;
+    border-radius: 13px;
+    box-shadow: -2px -2px 2 0px #ffe9a5, 2px 2px 2 0px #000;
+  }
 }
