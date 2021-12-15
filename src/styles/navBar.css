@@ -12,19 +12,7 @@
   text-transform: uppercase;
 }
 
-/* DESKTOP */
-@media (min-width: 810px) {
-  .navBar-container__account {
-    display: none;
-  }
-}
-
 /* MOBILE */
 .navBar-container {
   height: 55px;
-}
-
-.navBar-container__account {
-  display: flex;
-  gap: 1rem;
 }

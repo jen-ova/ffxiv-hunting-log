@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useState, useContext } from "react";
 import Wrapper from "./Wrapper";
 import { FilterContext } from "./store/FilterProvider";
 import "../styles/filterSideBar.css";
@@ -9,9 +9,15 @@ const FilterSideBar = () => {
   const { handleImageUrl, checkedState, handleChange, handleRank } =
     useContext(FilterContext);
 
+  const [show, setShow] = useState(true);
+
   return (
     <Wrapper>
-        <div className="filterSideBar-container">
+      
+    {/* testing filter */}
+    <i className="fas fa-filter" onClick={() => setShow((s) => !s)}></i>
+        <div className="filterSideBar-container" style={{ display: show ? "block" : "none" }}>
+    {/* end testing filter */}
           <div className="filterSideBar__job">
             <p className="filterSideBar__job-title">Class</p>
             <div className="filterSideBar__job_container">

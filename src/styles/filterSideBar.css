@@ -32,6 +32,7 @@
   height: 64px;
   background-size: contain;
   mix-blend-mode: luminosity;
+  cursor: pointer;
 }
 
 #GLD {
@@ -86,14 +87,18 @@
   margin-top: 2rem;
 }
 
-/* MOBILE */
-.filterSideBar-container {
-  display: none;
+/* FILTER */
+.fa-filter {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
 }
-
-/* DESKTOP */
+.fa-filter:hover {
+  cursor: pointer;
+  color: goldenrod;
+}
 @media (min-width: 810px) {
-  .filterSideBar-container {
-    display: block;
+  .fa-filter {
+    display: none !important;
   }
 }
