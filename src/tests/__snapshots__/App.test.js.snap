@@ -1,0 +1,435 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App 1`] = `
+<DocumentFragment>
+  <div
+    class="app"
+  >
+    <div
+      class="navBar"
+    >
+      <div
+        class="wrapper"
+      >
+        <div
+          class="navBar-container"
+        >
+          <h1
+            class="navbar-container__title"
+          >
+            FFXIV Hunting Log
+          </h1>
+          <p
+            class="navbar-container__account"
+          >
+            Login 
+            <span
+              class="navbar-container__account-separator"
+            >
+              |
+            </span>
+             Register
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sideBar__filter"
+    >
+      <div
+        class="wrapper"
+      >
+        <div
+          class="filterSideBar-container"
+        >
+          <div
+            class="filterSideBar__job"
+          >
+            <p
+              class="filterSideBar__job-title"
+            >
+              Class
+            </p>
+            <div
+              class="filterSideBar__job_container"
+            >
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="GLD"
+                  type="checkbox"
+                  value="GLD"
+                />
+                <label
+                  for="GLD"
+                >
+                  GLD
+                </label>
+              </div>
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="PUG"
+                  type="checkbox"
+                  value="PUG"
+                />
+                <label
+                  for="PUG"
+                >
+                  PUG
+                </label>
+              </div>
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="MRD"
+                  type="checkbox"
+                  value="MRD"
+                />
+                <label
+                  for="MRD"
+                >
+                  MRD
+                </label>
+              </div>
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="LNC"
+                  type="checkbox"
+                  value="LNC"
+                />
+                <label
+                  for="LNC"
+                >
+                  LNC
+                </label>
+              </div>
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="ARC"
+                  type="checkbox"
+                  value="ARC"
+                />
+                <label
+                  for="ARC"
+                >
+                  ARC
+                </label>
+              </div>
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="ROG"
+                  type="checkbox"
+                  value="ROG"
+                />
+                <label
+                  for="ROG"
+                >
+                  ROG
+                </label>
+              </div>
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="CNJ"
+                  type="checkbox"
+                  value="CNJ"
+                />
+                <label
+                  for="CNJ"
+                >
+                  CNJ
+                </label>
+              </div>
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="THM"
+                  type="checkbox"
+                  value="THM"
+                />
+                <label
+                  for="THM"
+                >
+                  THM
+                </label>
+              </div>
+              <div
+                class="filterSideBar__job-item"
+              >
+                <input
+                  id="ACN"
+                  type="checkbox"
+                  value="ACN"
+                />
+                <label
+                  for="ACN"
+                >
+                  ACN
+                </label>
+              </div>
+            </div>
+          </div>
+          <div
+            class="filterSideBar__region"
+          >
+            <label
+              class="filterSideBar__region-title"
+              for="region"
+            >
+              Region
+            </label>
+            <select
+              id="imageUrl"
+            >
+              <option
+                value="middle-la-noscea"
+              >
+                Middle La Noscea
+              </option>
+              <option
+                value="lower-la-noscea"
+              >
+                Lower La Noscea
+              </option>
+              <option
+                value="eastern-la-noscea"
+              >
+                Eastern La Noscea
+              </option>
+              <option
+                value="western-la-noscea"
+              >
+                Western La Noscea
+              </option>
+              <option
+                value="upper-la-noscea"
+              >
+                Upper La Noscea
+              </option>
+              <option
+                value="outer-la-noscea"
+              >
+                Outer La Noscea
+              </option>
+              <option
+                value="central-shroud"
+              >
+                Central Shroud
+              </option>
+              <option
+                value="east-shroud"
+              >
+                East Shroud
+              </option>
+              <option
+                value="south-shroud"
+              >
+                South Shroud
+              </option>
+              <option
+                value="north-shroud"
+              >
+                North Shroud
+              </option>
+              <option
+                value="western-thanalan"
+              >
+                Western Thanalan
+              </option>
+              <option
+                value="central-thanalan"
+              >
+                Central Thanalan
+              </option>
+              <option
+                value="eastern-thanalan"
+              >
+                Eastern Thanalan
+              </option>
+              <option
+                value="southern-thanalan"
+              >
+                Southern Thanalan
+              </option>
+              <option
+                value="northern-thanalan"
+              >
+                Northern Thanalan
+              </option>
+              <option
+                value="coerthas-central-highlands"
+              >
+                Coerthas Central Highlands
+              </option>
+              <option
+                value="mor-dhona"
+              >
+                Mor Dhona
+              </option>
+            </select>
+          </div>
+          <div
+            class="filterSideBar__rank"
+          >
+            <label
+              class="filterSideBar__rank-title"
+              for="rank"
+            >
+              Rank
+            </label>
+            <select
+              id="rank"
+              name="rank"
+            >
+              <option
+                value="1"
+              >
+                1
+              </option>
+              <option
+                value="2"
+              >
+                2
+              </option>
+              <option
+                value="3"
+              >
+                3
+              </option>
+              <option
+                value="4"
+              >
+                4
+              </option>
+              <option
+                value="5"
+              >
+                5
+              </option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="map"
+    >
+      <div
+        class="wrapper"
+      >
+        <div
+          class="map"
+        >
+          <div
+            class="leaflet-container leaflet-grab leaflet-touch-drag"
+            style="position: relative;"
+            tabindex="0"
+          >
+            <div
+              class="leaflet-pane leaflet-map-pane"
+              style="left: 0px; top: 0px;"
+            >
+              <div
+                class="leaflet-pane leaflet-tile-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-shadow-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-overlay-pane"
+              >
+                <img
+                  alt=""
+                  class="leaflet-image-layer"
+                  src="assets/maps/middle-la-noscea.jpg"
+                  style="z-index: 1; left: -328px; top: -328px; width: 656px; height: 656px;"
+                />
+              </div>
+              <div
+                class="leaflet-pane leaflet-marker-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-tooltip-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-popup-pane"
+              />
+            </div>
+            <div
+              class="leaflet-control-container"
+            >
+              <div
+                class="leaflet-top leaflet-left"
+              >
+                <div
+                  class="leaflet-control-zoom leaflet-bar leaflet-control"
+                >
+                  <a
+                    aria-label="Zoom in"
+                    class="leaflet-control-zoom-in"
+                    href="#"
+                    role="button"
+                    title="Zoom in"
+                  >
+                    +
+                  </a>
+                  <a
+                    aria-label="Zoom out"
+                    class="leaflet-control-zoom-out leaflet-disabled"
+                    href="#"
+                    role="button"
+                    title="Zoom out"
+                  >
+                    −
+                  </a>
+                </div>
+              </div>
+              <div
+                class="leaflet-top leaflet-right"
+              />
+              <div
+                class="leaflet-bottom leaflet-left"
+              />
+              <div
+                class="leaflet-bottom leaflet-right"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sideBar__list"
+    >
+      <div
+        class="wrapper"
+      >
+        <div
+          class="monsterList"
+        >
+          <p
+            class="monsterList__title"
+          >
+            Monster List
+          </p>
+          <div>
+            <h2 />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
