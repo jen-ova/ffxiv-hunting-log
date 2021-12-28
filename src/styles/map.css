@@ -1,8 +1,18 @@
 .leaflet-container {
-  /* width: 100vw; */
-  height: 100vh;
+  height: 80vh;
 }
 
 .huntIcon {
   filter: drop-shadow(5px 5px 5px black);
+}
+
+/* MOBILE */
+@media (max-width: 809px) {
+  .leaflet-container {
+    height: calc(100vh - 55px);
+  }
+
+  .leaflet-control {
+    display: none;
+  }
 }

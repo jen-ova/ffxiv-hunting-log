@@ -5,13 +5,14 @@
   align-items: center;
 }
 
-.navbar-container__title {
+.navBar-container__title {
   font-family: "Cormorant Garamond", serif;
   font-weight: bold;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   text-transform: uppercase;
 }
 
-.navbar-container__account-separator {
-  margin: 0 10px;
+/* MOBILE */
+.navBar-container {
+  height: 55px;
 }

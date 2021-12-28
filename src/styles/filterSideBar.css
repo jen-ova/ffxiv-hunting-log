@@ -32,6 +32,7 @@
   height: 64px;
   background-size: contain;
   mix-blend-mode: luminosity;
+  cursor: pointer;
 }
 
 #GLD {
@@ -71,10 +72,14 @@
   margin-top: 2rem;
 }
 
-#imageUrl {
+#imageUrl,
+#rank {
   width: 100%;
-  height: 30px;
+  height: 40px;
   font-size: 1rem;
+  background: #454445;
+  color: #fff;
+  padding-left: 1rem;
 }
 
 /* RANK */
@@ -82,8 +87,18 @@
   margin-top: 2rem;
 }
 
-#rank {
-  width: 100%;
-  height: 30px;
-  font-size: 1rem;
+/* FILTER */
+.fa-filter {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+.fa-filter:hover {
+  cursor: pointer;
+  color: goldenrod;
+}
+@media (min-width: 810px) {
+  .fa-filter {
+    display: none !important;
+  }
 }
