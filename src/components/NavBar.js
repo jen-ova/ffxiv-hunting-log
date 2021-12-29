@@ -1,9 +1,8 @@
-import React, {useState} from "react";
+import React from "react";
 import Wrapper from "./Wrapper";
 import "../styles/navBar.css";
 
 const NavBar = () => {
-
   return (
     <Wrapper>
       <div className="navBar-container">
